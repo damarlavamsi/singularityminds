@@ -1,0 +1,77 @@
+[
+    {
+      "question": "A train 180 meters long is running at a speed of 54 km/h. How long will it take to pass a pole?",
+      "options": ["A.8 seconds", "B.12 seconds", "C.15 seconds", "D.18 seconds"],
+      "answer": "B"
+    },
+    {
+      "question": "A train is running at 72 km/h and crosses a platform in 30 seconds. If the train is 150 meters long, what is the length of the platform?",
+      "options": ["A.200 meters", "B.250 meters", "C.300 meters", "D.350 meters"],
+      "answer": "B"
+    },
+    {
+      "question": "Two trains are moving in opposite directions with speeds of 60 km/h and 90 km/h respectively. If their lengths are 150m and 250m, how long will they take to completely pass each other?",
+      "options": ["A.10 seconds", "B.12 seconds", "C.14 seconds", "D.18 seconds"],
+      "answer": "C"
+    },
+    {
+      "question": "A train running at 90 km/h takes 36 seconds to pass a tunnel. If the train's length is 240 meters, what is the length of the tunnel?",
+      "options": ["A.540 meters", "B.720 meters", "C.810 meters", "D.900 meters"],
+      "answer": "C"
+    },
+    {
+      "question": "Two trains, each 100 meters long, pass each other completely in 8 seconds when moving in opposite directions at speeds of 45 km/h and 55 km/h. What is the relative speed of the trains in meters per second?",
+      "options": ["A.25 m/s", "B.27 m/s", "C.30 m/s", "D.35 m/s"],
+      "answer": "C"
+    },
+    {
+      "question": "A 200-meter-long train is moving at 72 km/h. How long will it take to cross a bridge 500 meters long?",
+      "options": ["A.20 seconds", "B.25 seconds", "C.30 seconds", "D.35 seconds"],
+      "answer": "B"
+    },
+    {
+      "question": "A train overtakes a man running at 12 km/h in 8 seconds. If the train's speed is 90 km/h, find the length of the train.",
+      "options": ["A.150 meters", "B.200 meters", "C.240 meters", "D.300 meters"],
+      "answer": "B"
+    },
+    {
+      "question": "Two trains are traveling in the same direction at speeds of 72 km/h and 90 km/h, respectively. If the faster train takes 30 seconds to completely pass the slower one, find the length of the faster train.",
+      "options": ["A.150 meters", "B.180 meters", "C.240 meters", "D.300 meters"],
+      "answer": "C"
+    },
+    {
+      "question": "A train crosses a platform in 50 seconds and a person standing on the platform in 10 seconds. If the train is 240 meters long, find the length of the platform.",
+      "options": ["A.600 meters", "B.720 meters", "C.840 meters", "D.900 meters"],
+      "answer": "B"
+    },
+    {
+      "question": "A train traveling at 120 km/h crosses a 500-meter-long bridge in 20 seconds. Find the length of the train.",
+      "options": ["A.200 meters", "B.240 meters", "C.280 meters", "D.300 meters"],
+      "answer": "D"
+    },
+    {
+      "question": "A high-speed train traveling at 180 km/h takes 25 seconds to cross a 1-km-long tunnel. Find the length of the train.",
+      "options": ["A.250 meters", "B.400 meters", "C.450 meters", "D.500 meters"],
+      "answer": "C"
+    },
+    {
+      "question": "Two trains running in opposite directions have speeds of 108 km/h and 72 km/h, respectively. If they take 12 seconds to completely pass each other and the longer train is 350 meters, find the length of the shorter train.",
+      "options": ["A.120 meters", "B.150 meters", "C.180 meters", "D.220 meters"],
+      "answer": "B"
+    },
+    {
+      "question": "A train moving at 144 km/h crosses a platform in 40 seconds and a pole in 12 seconds. Find the length of the platform.",
+      "options": ["A.450 meters", "B.600 meters", "C.720 meters", "D.800 meters"],
+      "answer": "C"
+    },
+    {
+      "question": "A 500-meter-long freight train takes 60 seconds to cross a station, while a passenger train 300 meters long takes 40 seconds. If both have the same speed, find the station length.",
+      "options": ["A.400 meters", "B.500 meters", "C.600 meters", "D.800 meters"],
+      "answer": "B"
+    },
+    {
+      "question": "A bullet train moving at 300 km/h takes 45 seconds to cross a tunnel. If the length of the train is 400 meters, find the length of the tunnel.",
+      "options": ["A.2,500 meters", "B.2,800 meters", "C.3,200 meters", "D.3,600 meters"],
+      "answer": "C"
+    }
+]

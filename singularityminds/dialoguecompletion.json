@@ -1,0 +1,127 @@
+[
+  {
+    "question": "A: I just failed my driving test again.\nB: _____",
+    "options": ["A. That’s amazing!", "B. You probably didn’t even try.", "C. Oh no, I’m really sorry to hear that.", "D. Why are you always driving?"],
+    "answer": "C"
+  },
+  {
+    "question": "A: Do you know where the nearest ATM is?\nB: _____",
+    "options": ["A. I left it at home.", "B. You should try the gas station around the corner.", "C. I don’t carry wallets.", "D. It's raining today."],
+    "answer": "B"
+  },
+  {
+    "question": "A: I’m really nervous about tomorrow’s interview.\nB: _____",
+    "options": ["A. Just pretend you’re asleep.", "B. I told you not to apply.", "C. You'll do great. You've prepared really well.", "D. What interview?"],
+    "answer": "C"
+  },
+  {
+    "question": "A: Sorry I’m late! The traffic was terrible.\nB: _____",
+    "options": ["A. That’s no excuse!", "B. Oh, don't worry—I'm just glad you’re here now.", "C. Traffic isn’t real.", "D. So leave next time."],
+    "answer": "B"
+  },
+  {
+    "question": "A: This dress is on sale—should I buy it?\nB: _____",
+    "options": ["A. Depends. Do you love it?", "B. You never wear clothes.", "C. No, it’s not mine.", "D. I don’t understand shopping."],
+    "answer": "A"
+  },
+  {
+    "question": "A: Can you help me carry these books?\nB: _____",
+    "options": ["A. I’m not a librarian.", "B. Sure, let me grab a few.", "C. These are your problem.", "D. I hate books."],
+    "answer": "B"
+  },
+  {
+    "question": "A: I just got promoted!\nB: _____",
+    "options": ["A. Again? So unfair.", "B. Congratulations! You deserve it!", "C. I wish I were your boss.", "D. No way, that’s fake."],
+    "answer": "B"
+  },
+  {
+    "question": "A: What did you think of the new restaurant?\nB: _____",
+    "options": ["A.I've never worn a hat. ", "B. I hate eating.", "C.It was amazing—the pasta was perfect. ", "D. Trees are tall."],
+    "answer": "C"
+  },
+  {
+    "question": "A: I’m going to Paris next week!\nB: _____",
+    "options": ["A. I’ll miss your shoes.", "B.I’ll see you in space. ", "C. France is illegal.", "D.Wow, that’s so exciting! Have you been before? "],
+    "answer": "D"
+  },
+  {
+    "question": "A: Do you need any help with your project?\nB: _____",
+    "options": ["A. Yes, that would be great—thank you!", "B. I already failed it.", "C. I don’t own a project.", "D. Leave me alone."],
+    "answer": "A"
+  },
+  {
+    "question": "A: I’m thinking of learning Japanese.\nB: _____",
+    "options": ["A. That’s a great idea! It’s a beautiful language.", "B. Why do you like sushi?", "C. Languages are boring.", "D. You don’t think well."],
+    "answer": "A"
+  },
+  {
+    "question": "A: I feel terrible—I think I caught the flu.\nB: _____",
+    "options": ["A.That’s hilarious. ", "B.I hope you feel better soon. ", "C. Everyone’s sick of you.", "D. Go do some jumping jacks."],
+    "answer": "B"
+  },
+  {
+    "question": "A: Did you enjoy the movie?\nB: _____",
+    "options": ["A. Yes! The plot twists were fantastic.", "B. I didn’t read the book.", "C. I sleep at home.", "D. It wasn’t a banana."],
+    "answer": "A"
+  },
+  {
+    "question": "A: Are you ready for the exam?\nB: _____",
+    "options": ["A.Only aliens pass. ", "B. I am pencil.", "C. Exams don’t exist.", "D.I’ve reviewed everything—let’s see how it goes! "],
+    "answer": "D"
+  },
+  {
+    "question": "A: Did you hear what happened at the meeting?\nB: _____",
+    "options": ["A. No, fill me in!", "B. I missed the universe.", "C. Time is a circle.", "D. I love cardboard."],
+    "answer": "A"
+  },
+  {
+    "question": "A: Thanks so much for the gift!\nB: _____",
+    "options": ["A. You should give me one back.", "B. No problem—I'm glad you liked it.", "C. I don’t gift.", "D. The box was shiny."],
+    "answer": "B"
+  },
+  {
+    "question": "A: How did your presentation go?\nB: _____",
+    "options": ["A. It went really well—thanks for asking!", "B. Presenting is extinct.", "C. I’m on TV.", "D. Slides are square."],
+    "answer": "A"
+  },
+  {
+    "question": "A: Where did you put my notebook?\nB: _____",
+    "options": ["A.Trees write on notebooks. ", "B. Notebook is life.", "C.I left it on the kitchen table. ", "D. Why ask books?"],
+    "answer": "C"
+  },
+  {
+    "question": "A: Do you want to join us for coffee after class?\nB: _____",
+    "options": ["A.I’m allergic to chairs. ", "B. I can’t drink clouds.", "C. Coffee is imaginary.", "D.That sounds nice—I’m in! "],
+    "answer": "D"
+  },
+  {
+    "question": "A: I'm so sorry I missed your birthday.\nB: _____",
+    "options": ["A. That’s okay, we can still celebrate together!", "B. You are erased.", "C. My cake hates you.", "D. I missed it too."],
+    "answer": "A"
+  },
+  {
+    "question": "A: How long does the train take to get there?\nB: _____",
+    "options": ["A.Train sounds like rain. ", "B.About 45 minutes, give or take. ", "C. Clocks are confusing.", "D. It doesn't."],
+    "answer": "B"
+  },
+  {
+    "question": "A: I just saw your painting online. It’s beautiful!\nB: _____",
+    "options": ["A. Thanks so much, that means a lot!", "B. Art attacks.", "C. The paint painted itself.", "D. Who’s online?"],
+    "answer": "A"
+  },
+  {
+    "question": "A: Have you met our new teacher yet?\nB: _____",
+    "options": ["A. Yes! She seems really kind and knowledgeable.", "B. Teachers are robots.", "C. I met everyone else.", "D. Classes eat me."],
+    "answer": "A"
+  },
+  {
+    "question": "A: What’s your plan for the weekend?\nB: _____",
+    "options": ["A.I don’t believe in time. ", "B. I plan on sleeping underwater.", "C.I’m going hiking if the weather holds up. ", "D. Weekends don’t arrive."],
+    "answer": "C"
+  },
+  {
+    "question": "A: Can I borrow your charger?\nB: _____",
+    "options": ["A. Of course—here you go.", "B. I charged the wall.", "C. I don’t loan clouds.", "D. Electricity is scary."],
+    "answer": "A"
+  }
+]

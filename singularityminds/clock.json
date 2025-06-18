@@ -1,0 +1,77 @@
+[
+    {
+        "question": "At what time between 4:00 and 5:00 will the hands of the clock be perpendicular to each other?",
+        "options": ["A. 4:20", "B. 4:30", "C. 4:36", "D. 4:44"],
+        "answer": "C"
+    },
+    {
+        "question": "The hands of the clock coincide exactly at what time between 2:00 and 3:00?",
+        "options": ["A. 2:10", "B. 2:12", "C. 2:15", "D. 2:18"],
+        "answer": "B"
+    },
+    {
+        "question": "A clock is set at 12:00 noon. If it loses 5 minutes every hour, what will be the correct time when the clock shows 6:00 PM?",
+        "options": ["A. 5:30 PM", "B. 5:40 PM", "C. 5:50 PM", "D. 6:10 PM"],
+        "answer": "B"
+    },
+    {
+        "question": "At what time between 7:00 and 8:00 do the hands of the clock form an angle of 180°?",
+        "options": ["A. 7:20", "B. 7:30", "C. 7:40", "D. 7:45"],
+        "answer": "B"
+    },
+    {
+        "question": "A clock gains 10 seconds every hour. If it was set correctly at midnight, what will be the correct time when the clock shows 12:00 noon?",
+        "options": ["A. 11:58 AM", "B. 11:55 AM", "C. 12:03 PM", "D. 12:05 PM"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the angle between the hour hand and the minute hand at 9:30?",
+        "options": ["A. 85°", "B. 90°", "C. 95°", "D. 105°"],
+        "answer": "D"
+    },
+    {
+        "question": "How many times do the hands of the clock overlap in a day?",
+        "options": ["A. 11", "B. 12", "C. 22", "D. 24"],
+        "answer": "C"
+    },
+    {
+        "question": "How many degrees does the minute hand move in 20 minutes?",
+        "options": ["A. 60°", "B. 90°", "C. 120°", "D. 180°"],
+        "answer": "C"
+    },
+    {
+        "question": "How many times in 12 hours do the hands of the clock form a right angle?",
+        "options": ["A. 22", "B. 24", "C. 44", "D. 48"],
+        "answer": "C"
+    },
+    {
+        "question": "A wall clock runs 4 minutes fast every hour. If the clock is set correctly at 8:00 AM, what will be the actual time when it shows 4:00 PM?",
+        "options": ["A. 3:32 PM", "B. 3:44 PM", "C. 4:16 PM", "D. 4:32 PM"],
+        "answer": "B"
+    },
+    {
+        "question": "How many degrees does the hour hand move in 10 minutes?",
+        "options": ["A. 2.5°", "B. 5°", "C. 10°", "D. 15°"],
+        "answer": "B"
+    },
+    {
+        "question": "At what time do the hands of the clock form an angle of 60° between 11:00 and 12:00?",
+        "options": ["A. 11:20", "B. 11:30", "C. 11:36", "D. 11:40"],
+        "answer": "C"
+    },
+    {
+        "question": "How many times in a day do the hands of the clock form a straight line?",
+        "options": ["A. 12", "B. 24", "C. 44", "D. 48"],
+        "answer": "D"
+    },
+    {
+        "question": "If the time is 5:40, what is the angle between the hour hand and minute hand?",
+        "options": ["A. 110°", "B. 115°", "C. 120°", "D. 130°"],
+        "answer": "B"
+    },
+    {
+        "question": "At what time between 6:00 and 7:00 do the clock hands coincide?",
+        "options": ["A. 6:25", "B. 6:30", "C. 6:32", "D. 6:36"],
+        "answer": "C"
+    }
+]

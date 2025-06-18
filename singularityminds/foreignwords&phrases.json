@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Déjà vu",
+    "options": ["A. A kind of dessert", "B. A strong sense of familiarity", "C. A forgotten memory", "D. A sudden fear"],
+    "answer": "B"
+  },
+  {
+    "question": "Carte blanche",
+    "options": ["A. A type of menu", "B. A blank card", "C. Full freedom to act as one wishes", "D. Secret agreement"],
+    "answer": "C"
+  },
+  {
+    "question": "Cul-de-sac",
+    "options": ["A. A dead-end street", "B. A traffic circle", "C. A tunnel", "D. A bridge"],
+    "answer": "A"
+  },
+  {
+    "question": "Faux pas",
+    "options": ["A. A delicious meal", "B. A public dance", "C. A social blunder", "D. A bold fashion"],
+    "answer": "C"
+  },
+  {
+    "question": "Prima donna",
+    "options": ["A. A weather forecast", "B. A person who is temperamental and conceited", "C. First-time traveler", "D. Legal term"],
+    "answer": "B"
+  },
+  {
+    "question": "RSVP",
+    "options": ["A. Please respond to an invitation", "B. Read slowly very politely", "C. Reach someone via post", "D. Return service very punctual"],
+    "answer": "A"
+  },
+  {
+    "question": "Cliché",
+    "options": ["A. A new idea", "B. An overused expression", "C. A complex theory", "D. A false rumor"],
+    "answer": "B"
+  },
+  {
+    "question": "A la carte",
+    "options": ["A. Eating outside", "B. By the menu item", "C. A full-course meal", "D. Buffet style"],
+    "answer": "B"
+  },
+  {
+    "question": "Bona fide",
+    "options": ["A. A legal mistake", "B. Made in good faith or genuine", "C. Completely false", "D. Fake but legal"],
+    "answer": "B"
+  },
+  {
+    "question": "Savoir-faire",
+    "options": ["A. Lack of courage", "B. Social finesse or tact", "C. Carelessness", "D. Sarcastic remark"],
+    "answer": "B"
+  },
+  {
+    "question": "Eureka",
+    "options": ["A. I have found it!", "B. It's broken", "C. Goodbye", "D. Come again later"],
+    "answer": "A"
+  },
+  {
+    "question": "Ad hoc",
+    "options": ["A. For a specific purpose", "B. Very important", "C. Completely random", "D. Ongoing agreement"],
+    "answer": "A"
+  },
+  {
+    "question": "Tabula rasa",
+    "options": ["A. A messy situation", "B. A blank slate", "C. Great confusion", "D. A full table"],
+    "answer": "B"
+  },
+  {
+    "question": "Alter ego",
+    "options": ["A. Hidden habit", "B. Another aspect of oneself", "C. Opposing enemy", "D. Distant family"],
+    "answer": "B"
+  },
+  {
+    "question": "Per se",
+    "options": ["A. Overall", "B. In itself or by itself", "C. As a result", "D. Eventually"],
+    "answer": "B"
+  },
+  {
+    "question": "Laissez-faire",
+    "options": ["A. Extreme discipline", "B. Letting things take their course", "C. Thorough interference", "D. Political disagreement"],
+    "answer": "B"
+  },
+  {
+    "question": "Avant-garde",
+    "options": ["A. Outdated style", "B. Highly experimental or innovative", "C. Official ceremony", "D. Dangerous equipment"],
+    "answer": "B"
+  },
+  {
+    "question": "En route",
+    "options": ["A. At home", "B. In transit or on the way", "C. Off duty", "D. Outdated"],
+    "answer": "B"
+  },
+  {
+    "question": "Joie de vivre",
+    "options": ["A. A stressful lifestyle", "B. Joy of living", "C. Great sadness", "D. Wandering alone"],
+    "answer": "B"
+  },
+  {
+    "question": "Panache",
+    "options": ["A. Subtle effort", "B. Glamour or flamboyant confidence", "C. Plainness", "D. Lack of energy"],
+    "answer": "B"
+  },
+  {
+    "question": "Verbatim",
+    "options": ["A. A general idea", "B. Word for word", "C. Slightly revised", "D. Erroneously quoted"],
+    "answer": "B"
+  },
+  {
+    "question": "Persona non grata",
+    "options": ["A. A highly respected guest", "B. A person who is unwelcome", "C. A masked visitor", "D. A repeat performer"],
+    "answer": "B"
+  },
+  {
+    "question": "Modus operandi",
+    "options": ["A. Personal weakness", "B. Mistaken belief", "C. Method of operating", "D. System failure"],
+    "answer": "C"
+  },
+  {
+    "question": "Vice versa",
+    "options": ["A. Repeatedly", "B. In the reverse order", "C. Very frequently", "D. Officially stated"],
+    "answer": "B"
+  },
+  {
+    "question": "Et cetera (etc.)",
+    "options": ["A. That is", "B. For example", "C. And so on", "D. Not important"],
+    "answer": "C"
+  }
+]

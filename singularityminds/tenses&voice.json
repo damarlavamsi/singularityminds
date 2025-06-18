@@ -1,0 +1,127 @@
+[
+  {
+    "question": "By this time tomorrow, she ___ the assignment.",
+    "options": ["A. has completed", "B. will be completing", "C. will have completed", "D. completes"],
+    "answer": "C"
+  },
+  {
+    "question": "He said that he ___ the documents before the deadline.",
+    "options": ["A. submits", "B. had submitted", "C. submit", "D. will submit"],
+    "answer": "B"
+  },
+  {
+    "question": "No sooner had she arrived than the meeting ___.",
+    "options": ["A. began", "B. had begun", "C. has begun", "D. begins"],
+    "answer": "A"
+  },
+  {
+    "question": "If she ___ earlier, she would have caught the train.",
+    "options": ["A. arrives", "B. has arrived", "C. arrived", "D. had arrived"],
+    "answer": "D"
+  },
+  {
+    "question": "The song was ___ by over ten million people.",
+    "options": ["A. listening", "B. being listened", "C. listened", "D. listened to"],
+    "answer": "D"
+  },
+  {
+    "question": "By the end of the year, we ___ in this city for a decade.",
+    "options": ["A. are living", "B. lived", "C. will have lived", "D. have lived"],
+    "answer": "C"
+  },
+  {
+    "question": "The thief ___ by the police when he tried to flee.",
+    "options": ["A. was caught", "B. had been caught", "C. is caught", "D. catches"],
+    "answer": "A"
+  },
+  {
+    "question": "She ___ for the company since 2015.",
+    "options": ["A. is working", "B. has worked", "C. worked", "D. had worked"],
+    "answer": "B"
+  },
+  {
+    "question": "Let the task ___ by the interns.",
+    "options": ["A. be completed", "B. completed", "C. been completed", "D. completes"],
+    "answer": "A"
+  },
+  {
+    "question": "The case ___ in the court since last month.",
+    "options": ["A. has being heard", "B. is being heard", "C. was heard", "D. has been heard"],
+    "answer": "B"
+  },
+  {
+    "question": "While the chef ___, the waiter served the guests.",
+    "options": ["A. was cooking", "B. cooked", "C. has cooked", "D. is cooking"],
+    "answer": "A"
+  },
+  {
+    "question": "The order ___ before the store closed.",
+    "options": ["A. had been placed", "B. was placing", "C. has placed", "D. placed"],
+    "answer": "A"
+  },
+  {
+    "question": "She would rather you ___ home early today.",
+    "options": ["A. had come", "B. come", "C. will come", "D. comes"],
+    "answer": "B"
+  },
+  {
+    "question": "Emails ___ daily by the office assistant.",
+    "options": ["A. is sent", "B. are sending", "C. are sent", "D. were sent"],
+    "answer": "C"
+  },
+  {
+    "question": "The guests ___ when we reached the venue.",
+    "options": ["A. had already arrived", "B. are arriving", "C. arrive", "D. have arrived"],
+    "answer": "A"
+  },
+  {
+    "question": "He ___ TV when the lights went out.",
+    "options": ["A. watches", "B. had watched", "C. was watching", "D. has been watching"],
+    "answer": "C"
+  },
+  {
+    "question": "A solution ___ before the deadline.",
+    "options": ["A. must been found", "B. must be found", "C. must found", "D. must have find"],
+    "answer": "B"
+  },
+  {
+    "question": "Had she studied harder, she ___ the scholarship.",
+    "options": ["A. will win", "B. had won", "C. would have won", "D. won"],
+    "answer": "C"
+  },
+  {
+    "question": "The documents ___ yesterday.",
+    "options": ["A. are signed", "B. were being signed", "C. were signed", "D. have been signing"],
+    "answer": "C"
+  },
+  {
+    "question": "She ___ the piano for two hours when I arrived.",
+    "options": ["A. played", "B. had been playing", "C. was playing", "D. has played"],
+    "answer": "B"
+  },
+  {
+    "question": "Not a word ___ during the awkward silence.",
+    "options": ["A. is spoke", "B. was spoken", "C. was spoke", "D. has been spoken"],
+    "answer": "B"
+  },
+  {
+    "question": "He ___ to the manager before leaving the office.",
+    "options": ["A. spoken", "B. speaks", "C. has spoken", "D. had spoken"],
+    "answer": "D"
+  },
+  {
+    "question": "The project ___ by Monday, I promise.",
+    "options": ["A. is completed", "B. will have been completed", "C. had completed", "D. completed"],
+    "answer": "B"
+  },
+  {
+    "question": "They ___ their homework when the guests arrived.",
+    "options": ["A. finishing", "B. had finished", "C. finish", "D. are finishing"],
+    "answer": "B"
+  },
+  {
+    "question": "The instructions ___ clearly before the exam began.",
+    "options": ["A. had explained", "B. were being explained", "C. have been explaining", "D. had been explained"],
+    "answer": "D"
+  }
+]

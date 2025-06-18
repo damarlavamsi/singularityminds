@@ -1,0 +1,127 @@
+[
+  {
+    "question": "The teacher, as well as her students, have arrived at the seminar hall.",
+    "options": ["A. The teacher, as well as her students,", "B. have arrived", "C. at the seminar hall.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "No other student in the class is as brighter as Rajeev.",
+    "options": ["A. No other student in the class", "B. is as brighter", "C. as Rajeev.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "The committee has submitted their report to the principal.",
+    "options": ["A. The committee has submitted", "B.to the principal. ", "C.their report ", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "Everyone of the documents need to be checked for accuracy.",
+    "options": ["A.need to be checked ", "B. Everyone of the documents", "C. for accuracy.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "The number of road accidents have increased drastically in recent months.",
+    "options": ["A. The number of road accidents", "B. have increased", "C. drastically in recent months.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "She said she will return the books by Monday.",
+    "options": ["A. She said she", "B. will return", "C. the books by Monday.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Either my father or my brothers is attending the annual meet tomorrow.",
+    "options": ["A. Either my father or my brothers", "B.the annual meet tomorrow. ", "C.is attending ", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "Being a former athlete, the race was easy for her.",
+    "options": ["A. Being a former athlete,", "B. the race", "C. was easy for her.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "One of the biggest hurdles that the candidate face is the language barrier.",
+    "options": ["A.that the candidate face ", "B.One of the biggest hurdles ", "C. is the language barrier.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "He denied to be involved in the scandal.",
+    "options": ["A. to be involved", "B.He denied ", "C. in the scandal.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "Neither of the two brothers have any idea about the missing documents.",
+    "options": ["A. Neither of the two brothers", "B. have any idea", "C. about the missing documents.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Though she speaks fluent English, her accent is quite strong.",
+    "options": ["A. Though she speaks", "B. fluent English,", "C. her accent is quite strong.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Unless you do not speak the truth, no one will believe you.",
+    "options": ["A. Unless you do not speak", "B. the truth,", "C. no one will believe you.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "The book that you gave me and the pen is on the table.",
+    "options": ["A. The book that you gave me", "B. and the pen", "C. is on the table.", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "The jury have delivered its final verdict.",
+    "options": ["A. The jury", "B. have delivered", "C. its final verdict.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Despite working hard, he was unable to achieve his goal.",
+    "options": ["A. Despite working hard,", "B. he was unable", "C. to achieve his goal.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "She is one of the students who has topped the class in mathematics.",
+    "options": ["A. She is one of the students", "B. who has topped", "C. the class in mathematics.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "I wish I was a bird.",
+    "options": ["A. I wish", "B. I was", "C. a bird.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "He insisted that he pays for the damages.",
+    "options": ["A. He insisted that", "B. he pays", "C. for the damages.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "None of the information were accurate according to the expert.",
+    "options": ["A. None of the information", "B. were accurate", "C. according to the expert.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Not only she is brilliant but also very humble.",
+    "options": ["A. Not only she is brilliant", "B. but also", "C. very humble.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "The traffic rules needs to be strictly enforced.",
+    "options": ["A. The traffic rules", "B. needs to be", "C. strictly enforced.", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "He hardly listens what I say these days.",
+    "options": ["A. He hardly listens", "B.these days. ", "C. what I say", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "No sooner he stepped out of the room than it started raining.",
+    "options": ["A. No sooner he stepped out", "B. of the room", "C. than it started raining.", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "This is the same book which I had recommended to you.",
+    "options": ["A. which I had", "B.This is the same book ", "C. recommended to you.", "D. No error"],
+    "answer": "A"
+  }
+]

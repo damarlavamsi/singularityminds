@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Eight people A, B, C, D, E, F, G, and H sit in a straight line. D is second to the right of F. B is at one end. C is a neighbor of D and E. G sits to the right of A but is not at an end. Who is exactly in the middle?",
+    "options": ["A. C", "B. D", "C. G", "D. E"],
+    "answer": "C"
+  },
+  {
+    "question": "Six friends A, B, C, D, E, and F sit in a circle facing the center. A is to the immediate left of D. F is between A and B. C is opposite A. Who is to the right of E?",
+    "options": ["A. C", "B. A", "C. F", "D. B"],
+    "answer": "D"
+  },
+  {
+    "question": "Six people P, Q, R, S, T, and U sit in a circle facing outward. P is to the right of Q. R is opposite S. T is between Q and R. U is not next to S. Who is to the left of R?",
+    "options": ["A. Q", "B. T", "C. U", "D. P"],
+    "answer": "C"
+  },
+  {
+    "question": "Eight people live on eight floors of a building. A lives on the top floor. C is on an odd-numbered floor below D. E lives immediately below B. Only two people live between C and F. Who lives on the 4th floor?",
+    "options": ["A. D", "B. F", "C. B", "D. C"],
+    "answer": "B"
+  },
+  {
+    "question": "Eight people are seated in two rows of four each facing each other. A is opposite F. D is to the right of B. E is not next to H. G is to the left of C. Who is diagonally opposite to D?",
+    "options": ["A. F", "B. G", "C. H", "D. A"],
+    "answer": "C"
+  },
+  {
+    "question": "Seven people sit around a triangular table (3 corners, 2 people on each side). A and B sit at corners. C is not adjacent to D. E sits between F and G. Who sits opposite A?",
+    "options": ["A. F", "B. C", "C. G", "D. D"],
+    "answer": "D"
+  },
+  {
+    "question": "Eight people face the center. A is second to the right of F. E is immediately left of B. C is opposite D. G is between A and H. Who is third to the left of E?",
+    "options": ["A. D", "B. G", "C. A", "D. H"],
+    "answer": "B"
+  },
+  {
+    "question": "Five coders are on different shelves. Java coder is at the top. Python is below Java but not at the bottom. JS coder is between Python and C. PHP is not at bottom. Who is in the middle shelf?",
+    "options": ["A. JS", "B. C", "C. PHP", "D. Python"],
+    "answer": "A"
+  },
+  {
+    "question": "Six students sit in a row. Oldest is far right, youngest at far left. A is older than B but younger than C. D is older than E, but younger than F. Who might be sitting at the far-right?",
+    "options": ["A. C", "B. A", "C. F", "D. D"],
+    "answer": "C"
+  },
+  {
+    "question": "Ten friends sit in a circle. Some face inward, some outward. A faces outward, sits second to right of B. C is opposite A and faces inward. D is third to left of C. What is D’s position relative to A?",
+    "options": ["A. Third to right", "B. Second to left", "C. Opposite", "D. Fourth to left"],
+    "answer": "A"
+  },
+  {
+    "question": "Two rows face each other: A, B, C, D and P, Q, R, S. A is opposite R and to the left of B. D does not face Q. C sits at the end. Who faces B?",
+    "options": ["A. S", "B. P", "C. Q", "D. R"],
+    "answer": "A"
+  },
+  {
+    "question": "Five colored boxes stacked vertically. Red above Green, below Blue. Yellow is between Blue and White. Green is not at bottom. Which box is at the top?",
+    "options": ["A. White", "B. Red", "C. Blue", "D. Yellow"],
+    "answer": "C"
+  },
+  {
+    "question": "Eight sit in a circle. A is opposite H. B is third to right of A. C is between D and E. F is to immediate left of G. Who is opposite B?",
+    "options": ["A. E", "B. D", "C. G", "D. C"],
+    "answer": "B"
+  },
+  {
+    "question": "Five people in a line by height. A is taller than B but shorter than C. D is shorter than A. E is not shortest. Who is in the middle by height?",
+    "options": ["A. D", "B. A", "C. E", "D. B"],
+    "answer": "B"
+  },
+  {
+    "question": "Six interns get cabin assignments in a row. Java intern isn’t next to front-end. DB is left of ML. AI is between Web and DB. Web intern isn’t at ends. Who is in the middle cabin?",
+    "options": ["A. AI", "B. DB", "C. Web", "D. ML"],
+    "answer": "A"
+  }
+]

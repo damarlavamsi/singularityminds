@@ -1,0 +1,87 @@
+[
+    {
+      "question": "A bag contains 3 red balls, 4 blue balls, and 5 green balls. What is the probability of picking a red ball?",
+      "options": ["A.3/12", "B.4/12", "C.5/12", "D.3/15"],
+      "answer": "A"
+    },
+    {
+      "question": "A fair six-sided die is rolled. What is the probability of getting an even number?",
+      "options": ["A.1/2", "B.1/3", "C.2/3", "D.3/4"],
+      "answer": "A"
+    },
+    {
+      "question": "A deck of cards has 52 cards. What is the probability of drawing a king?",
+      "options": ["A.1/13", "B.1/26", "C.1/52", "D.4/52"],
+      "answer": "A"
+    },
+    {
+      "question": "A coin is flipped twice. What is the probability of getting two heads?",
+      "options": ["A.1/4", "B.1/2", "C.1/3", "D.3/4"],
+      "answer": "A"
+    },
+    {
+      "question": "If two dice are rolled, what is the probability of getting a sum of 7?",
+      "options": ["A.1/6", "B.1/8", "C.1/9", "D.1/12"],
+      "answer": "A"
+    },
+    {
+      "question": "A box contains 6 red, 5 blue, and 4 yellow marbles. What is the probability of drawing a blue or yellow marble?",
+      "options": ["A.4/15", "B.5/15", "C.9/15", "D.6/15"],
+      "answer": "C"
+    },
+    {
+      "question": "A jar contains 3 apples, 2 oranges, and 5 bananas. What is the probability of drawing an orange?",
+      "options": ["A.1/5", "B.2/10", "C.1/4", "D.2/10"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the probability of getting a prime number when rolling a six-sided die?",
+      "options": ["A.1/2", "B.1/3", "C.2/3", "D.3/4"],
+      "answer": "B"
+    },
+    {
+      "question": "Two coins are flipped. What is the probability of getting at least one head?",
+      "options": ["A.1/4", "B.1/2", "C.3/4", "D.2/4"],
+      "answer": "C"
+    },
+    {
+      "question": "A number is randomly chosen from 1 to 100. What is the probability of selecting a number divisible by 5?",
+      "options": ["A.1/5", "B.1/10", "C.1/20", "D.1/50"],
+      "answer": "A"
+    },
+    {
+      "question": "A box has 4 red, 3 blue, and 2 green balls. If one ball is drawn randomly, what is the probability of NOT getting a red ball?",
+      "options": ["A.3/9", "B.5/9", "C.6/9", "D.7/9"],
+      "answer": "B"
+    },
+    {
+      "question": "A standard deck of playing cards has 52 cards. What is the probability of picking a black card?",
+      "options": ["A.1/2", "B.1/4", "C.1/3", "D.3/4"],
+      "answer": "A"
+    },
+    {
+      "question": "A bag has 4 red and 6 green balls. If two balls are drawn randomly without replacement, what is the probability that both are green?",
+      "options": ["A.1/3", "B.2/5", "C.3/10", "D.4/9"],
+      "answer": "D"
+    },
+    {
+      "question": "In a lottery of 500 tickets, only one ticket wins. If a person buys 5 tickets, what is the probability that they win?",
+      "options": ["A.1/500", "B.5/500", "C.1/100", "D.5/100"],
+      "answer": "B"
+    },
+    {
+      "question": "A fair coin is flipped 8 times. What is the probability that exactly 3 heads appear?",
+      "options": ["A.56/256", "B.64/256", "C.35/128", "D.28/128"],
+      "answer": "C"
+    },
+    {
+      "question": "A sensor can detect an object with a probability of 0.98. If 5 sensors are deployed independently, what is the probability that at least one sensor detects the object?",
+      "options": ["A.0.99998", "B.0.99950", "C.0.99990", "D.0.99000"],
+      "answer": "A"
+    },
+    {
+      "question": "A student randomly guesses answers for a 10-question multiple-choice test, each with 4 options. What is the probability that the student gets exactly 5 answers correct?",
+      "options": ["A.0.205", "B.0.089", "C.0.250", "D.0.312"],
+      "answer": "B"
+    }
+  ]

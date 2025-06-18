@@ -1,0 +1,113 @@
+[
+  {
+    "question": "The average of five numbers is 64. If one number is excluded, the average becomes 61. What is the excluded number?",
+    "options": ["A. 76", "B. 79", "C. 80", "D. 85"],
+    "answer": "C"
+  },
+  {
+    "question": "A number when divided by 4 leaves remainder 3, and when divided by 5 leaves remainder 2. What is the smallest such number?",
+    "options": ["A. 17", "B. 18", "C. 23", "D. 27"],
+    "answer": "D"
+  },
+  {
+    "question": "If A is 25% more than B, then B is what percent less than A?",
+    "options": ["A. 20%", "B. 25%", "C. 30%", "D. 33.33%"],
+    "answer": "A"
+  },
+  {
+    "question": "The product of two numbers is 2028 and their HCF is 13. What is their LCM?",
+    "options": ["A. 156", "B. 162", "C. 169", "D. 174"],
+    "answer": "C"
+  },
+  {
+    "question": "A and B together can complete a work in 12 days. A alone can do it in 20 days. In how many days can B alone complete the work?",
+    "options": ["A. 25", "B. 30", "C. 35", "D. 40"],
+    "answer": "B"
+  },
+  {
+    "question": "A man can row 12 km downstream in 3 hours, and 9 km upstream in 3 hours. What is the speed of the stream?",
+    "options": ["A. 0.5 km/h", "B. 1 km/h", "C. 1.5 km/h", "D. 2 km/h"],
+    "answer": "B"
+  },
+  {
+    "question": "A train crosses a platform 100 m long in 60 seconds and a man in 40 seconds. What is the length of the train?",
+    "options": ["A. 100 m", "B. 150 m", "C. 200 m", "D. 300 m"],
+    "answer": "C"
+  },
+  {
+    "question": "A man can complete a piece of work in 8 days, and his son can do it in 12 days. If they work together, in how many days will the work be completed?",
+    "options": ["A. 5 days", "B. 4.8 days", "C. 6 days", "D. 7 days"],
+    "answer": "B"
+  },
+  {
+    "question": "A shopkeeper marks up his goods by 25% and gives a discount of 20%. What is his effective profit or loss percentage?",
+    "options": ["A. 0%", "B. 5% profit", "C. 2% profit", "D. 5% loss"],
+    "answer": "C"
+  },
+  {
+    "question": "A person invested ₹10,000 at 10% per annum simple interest. What will be the interest after 3 years?",
+    "options": ["A. ₹3,000", "B. ₹3,100", "C. ₹3,300", "D. ₹3,500"],
+    "answer": "A"
+  },
+  {
+    "question": "A pipe can fill a tank in 12 hours. Due to a leak, it took 15 hours to fill. How long will the leak take to empty the tank?",
+    "options": ["A. 48 h", "B. 45 h", "C. 40 h", "D. 36 h"],
+    "answer": "B"
+  },
+  {
+    "question": "A and B start a business investing ₹10,000 and ₹15,000 respectively. After 6 months, A invested ₹5,000 more. At the end of the year, what is the ratio of profits?",
+    "options": ["A. 1:1", "B. 5:6", "C. 7:9", "D. 8:9"],
+    "answer": "D"
+  },
+  {
+    "question": "If the average of five consecutive even numbers is 46, what is the largest number?",
+    "options": ["A. 48", "B. 50", "C. 52", "D. 54"],
+    "answer": "B"
+  },
+  {
+    "question": "A car travels 400 km at a speed of 80 km/h and returns at 100 km/h. What is the average speed of the entire trip?",
+    "options": ["A. 90 km/h", "B. 88.88 km/h", "C. 89.5 km/h", "D. 85 km/h"],
+    "answer": "B"
+  },
+  {
+    "question": "If x% of 80 equals 40% of 100, what is the value of x?",
+    "options": ["A. 40", "B. 50", "C. 60", "D. 70"],
+    "answer": "B"
+  },
+  {
+    "question":"  In the IT department of TCS, the administrator password is changed every month. The team of administrators, spread across the globe, receive an 8 digit number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 65351364 this month, then which of the following pairs give prefix and suffix respectively.",
+    "options":["A.  8,9", "B.  7,8", "C.  3,4", "D.  Cannot be determined / Data Insufficient "  ],
+    "answer": "B"
+},
+    {
+        "question": "Two packets are available for sale. Packet A: peanuts 100 grams for Rs72 nly, Packet B: peanuts 150 grams for Rs 108 only. Which is a better buy ?",
+        "options": ["A. Packet A", "B. Packet B ", "C. Data insufficient", "D. Both have same value"],
+        "answer": " D "
+    },
+    {
+        "question": "  6 cows cost the same as 9 sheep, 27 sheep cost the same as 30 goats. 50 goats cost the same as 3 elephants. If two elephants cost Rs 7200, then the cost of one cow is",
+        "options": ["A. Rs.360 ", "Rs.240 ", "C. Rs.420", "D. None"],
+        "answer": " A "
+
+    },
+    {
+    "question": "  Thomas bought X number of sports goods for Rs 9600. If each item was cheaper by Rs 20 then with the same amount he could have bought 40 more items than X. Find the number of items bought by Thomas ?",
+        "options": ["A. 120 ", "500 ", "C. 260", "D.350"],
+        "answer": " A "
+    },
+    {
+
+        "question": "   A lady engaged a servant on a condition that she will pay Rs 90 and also give him a turban at the end of the year. He served for 9 months and was given a turban and Rs 65. So the price of turban is :",
+        "options": ["A. Rs.50 ", "Rs.100 ", "C. Rs.20", "D. 10"],
+        "answer": " A "
+ },
+{
+        "question": " A girl is promised Rs. 8400 and a cloak as her wages for a year. After 7 months she leaves this service and receives the cloak and Rs. 4600 as her due. How much is the cloak worth?",
+        "options": ["A. Rs.840 ", "Rs.780 ", "C. Rs.900", "D. 720"],
+        "answer": " D"
+
+
+}
+  
+
+]

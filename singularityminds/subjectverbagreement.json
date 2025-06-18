@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Neither the manager nor his assistants ___ prepared for the inspection.",
+    "options": ["A. was", "B. were"],
+    "answer": "B"
+  },
+  {
+    "question": "A bouquet of red roses ___ the center of the table.",
+    "options": ["A. adorn", "B. adorns"],
+    "answer": "B"
+  },
+  {
+    "question": "Mathematics, along with Physics and Chemistry, ___ sharp analytical skills.",
+    "options": ["A. require", "B. requires"],
+    "answer": "B"
+  },
+  {
+    "question": "The jury ___ divided in their opinion.",
+    "options": ["A. is", "B. are"],
+    "answer": "B"
+  },
+  {
+    "question": "High levels of stress ___ hormonal imbalance.",
+    "options": ["A. cause", "B. causes"],
+    "answer": "A"
+  },
+  {
+    "question": "Either the musicians or the conductor ___ at fault.",
+    "options": ["A. is", "B. are"],
+    "answer": "A"
+  },
+  {
+    "question": "Ten kilometers ___ a long distance to run without training.",
+    "options": ["A. is", "B. are"],
+    "answer": "A"
+  },
+  {
+    "question": "There ___ to be multiple errors in this document.",
+    "options": ["A. seems", "B. seem"],
+    "answer": "B"
+  },
+  {
+    "question": "The number of entries in the contest ___ doubled this year.",
+    "options": ["A. has", "B. have"],
+    "answer": "A"
+  },
+  {
+    "question": "None of the participants ___ allowed to use calculators.",
+    "options": ["A. was", "B. were"],
+    "answer": "B"
+  },
+  {
+    "question": "The team, after hours of deliberation, ___ to withdraw.",
+    "options": ["A. decide", "B. decides"],
+    "answer": "B"
+  },
+  {
+    "question": "One-third of the pie ___ eaten.",
+    "options": ["A. was", "B. were"],
+    "answer": "A"
+  },
+  {
+    "question": "Each of the reports ___ a signature before submission.",
+    "options": ["A. require", "B. requires"],
+    "answer": "B"
+  },
+  {
+    "question": "Not only the director but also the actors ___ criticized.",
+    "options": ["A. was", "B. were"],
+    "answer": "B"
+  },
+  {
+    "question": "Here ___ the finalists of the competition.",
+    "options": ["A. comes", "B. come"],
+    "answer": "B"
+  },
+  {
+    "question": "More than one scientist ___ raised concerns about the findings.",
+    "options": ["A. have", "B. has"],
+    "answer": "B"
+  },
+  {
+    "question": "Either the lions or the elephant ___ escaped from the enclosure.",
+    "options": ["A. has", "B. have"],
+    "answer": "A"
+  },
+  {
+    "question": "The data ___ a correlation between sleep and memory.",
+    "options": ["A. suggest", "B. suggests"],
+    "answer": "A"
+  },
+  {
+    "question": "The quality of the materials ___ significantly between brands.",
+    "options": ["A. vary", "B. varies"],
+    "answer": "B"
+  },
+  {
+    "question": "What we need most right now ___ solutions.",
+    "options": ["A. is", "B. are"],
+    "answer": "B"
+  },
+  {
+    "question": "The majority of the class ___ uninterested in the experiment.",
+    "options": ["A. was", "B. were"],
+    "answer": "A"
+  },
+  {
+    "question": "Each book and every pen ___ neatly placed on the shelf.",
+    "options": ["A. are", "B. is"],
+    "answer": "B"
+  },
+  {
+    "question": "The committee ___ to the revised proposal.",
+    "options": ["A. agree", "B. agrees"],
+    "answer": "B"
+  },
+  {
+    "question": "Two hours ___ not enough to complete this paper.",
+    "options": ["A. is", "B. are"],
+    "answer": "A"
+  },
+  {
+    "question": "All that glitters ___ not gold.",
+    "options": ["A. is", "B. are"],
+    "answer": "A"
+  }
+]

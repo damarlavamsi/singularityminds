@@ -1,0 +1,127 @@
+[
+  {
+    "question": "To let the cat out of the bag",
+    "options": ["A. To play a trick", "B. To release anger", "C. To take a risk", "D. To reveal a secret"],
+    "answer": "D"
+  },
+  {
+    "question": "Once in a blue moon",
+    "options": ["A. Very rarely", "B. Unexpectedly", "C. Frequently", "D. All the time"],
+    "answer": "A"
+  },
+  {
+    "question": "To hit the nail on the head",
+    "options": ["A. To describe exactly what is causing a situation", "B. To get hurt", "C. To guess randomly", "D. To make an assumption"],
+    "answer": "A"
+  },
+  {
+    "question": "A blessing in disguise",
+    "options": ["A. A benefit that appears bad at first", "B. A hidden reward", "C. An unexpected punishment", "D. A well-wrapped gift"],
+    "answer": "A"
+  },
+  {
+    "question": "To add fuel to the fire",
+    "options": ["A. To bring excitement", "B. To cook something fast", "C. To make matters worse", "D. To calm a situation"],
+    "answer": "C"
+  },
+  {
+    "question": "To be on cloud nine",
+    "options": ["A. Extremely happy", "B. Sad", "C. Confused", "D. Very angry"],
+    "answer": "A"
+  },
+  {
+    "question": "To spill the beans",
+    "options": ["A. To make a mistake", "B. To reveal a secret", "C. To lose hope", "D. To waste resources"],
+    "answer": "B"
+  },
+  {
+    "question": "Bite the bullet",
+    "options": ["A. To shoot someone", "B. To stay quiet", "C. To eat something quickly", "D. To act bravely in a painful situation"],
+    "answer": "D"
+  },
+  {
+    "question": "Break the ice",
+    "options": ["A. To initiate a conversation", "B. To damage a relationship", "C. To enter a cold area", "D. To shout at someone"],
+    "answer": "A"
+  },
+  {
+    "question": "Burn the midnight oil",
+    "options": ["A. To sleep late", "B. To study or work late", "C. To waste resources", "D. To light a lamp"],
+    "answer": "B"
+  },
+  {
+    "question": "Cry over spilt milk",
+    "options": ["A. To make excuses", "B. To waste time", "C. To regret something that cannot be undone", "D. To complain about success"],
+    "answer": "C"
+  },
+  {
+    "question": "Hit the sack",
+    "options": ["A. To fight", "B. To go to bed", "C. To pack up", "D. To leave the house"],
+    "answer": "B"
+  },
+  {
+    "question": "Cost an arm and a leg",
+    "options": ["A. Very expensive", "B. Emotionally painful", "C. Dangerous to buy", "D. Extremely cheap"],
+    "answer": "A"
+  },
+  {
+    "question": "Go the extra mile",
+    "options": ["A. To walk a lot", "B. To spend more money", "C. To do more than expected", "D. To leave early"],
+    "answer": "C"
+  },
+  {
+    "question": "Beat around the bush",
+    "options": ["A. Talk clearly", "B. Say it directly", "C. Act suspiciously", "D. Avoid the main topic"],
+    "answer": "D"
+  },
+  {
+    "question": "Throw in the towel",
+    "options": ["A. To surrender or give up", "B. To provoke someone", "C. To clean the area", "D. To get refreshed"],
+    "answer": "A"
+  },
+  {
+    "question": "Kick the bucket",
+    "options": ["A. To run away", "B. To die", "C. To make a mistake", "D. To clean a floor"],
+    "answer": "B"
+  },
+  {
+    "question": "Under the weather",
+    "options": ["A. Extremely happy", "B. Furious", "C. Feeling unwell", "D. Tired of sunshine"],
+    "answer": "C"
+  },
+  {
+    "question": "Pull someone’s leg",
+    "options": ["A. To slow someone down", "B. To injure someone", "C. To help someone", "D. To joke or tease"],
+    "answer": "D"
+  },
+  {
+    "question": "Throw caution to the wind",
+    "options": ["A. To avoid change", "B. To take a risk", "C. To make a plan", "D. To be careful"],
+    "answer": "B"
+  },
+  {
+    "question": "Put all your eggs in one basket",
+    "options": ["A. Be careful", "B. Plan wisely", "C. Risk everything on one opportunity", "D. Store food properly"],
+    "answer": "C"
+  },
+  {
+    "question": "In the blink of an eye",
+    "options": ["A. With much thought", "B. Very quickly", "C. Slowly and steadily", "D. Invisibly"],
+    "answer": "B"
+  },
+  {
+    "question": "The ball is in your court",
+    "options": ["A. Someone passed a message", "B. A game has started", "C. Trouble is near", "D. It’s your decision or responsibility"],
+    "answer": "D"
+  },
+  {
+    "question": "Cut corners",
+    "options": ["A. Follow the rules", "B. Take a shortcut", "C. Do something cheaply or badly", "D. Be precise"],
+    "answer": "C"
+  },
+  {
+    "question": "Call it a day",
+    "options": ["A. To stop working for the day", "B. To move location", "C. To report success", "D. To make a decision"],
+    "answer": "A"
+  }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Evaluate: (8x^3 - 6x^2 + 4x - 10) ÷ (4x) for x = 5",
+        "options": ["A. 47", "B. 50", "C. 53", "D. 56"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the unit digit of 123^456",
+        "options": ["A. 1", "B. 3", "C. 7", "D. 9"],
+        "answer": "D"
+    },
+    {
+        "question": "Solve: (16^3 - 64) ÷ 4",
+        "options": ["A. 1020", "B. 1032", "C. 1040", "D. 1056"],
+        "answer": "C"
+    },
+    {
+        "question": "Simplify: log_5(125) + log_3(27) - log_7(49)",
+        "options": ["A. 4", "B. 5", "C. 6", "D. 7"],
+        "answer": "C"
+    },
+    {
+        "question": "Evaluate: (9x^2 - 4x + 7) for x = 6",
+        "options": ["A. 290", "B. 300", "C. 310", "D. 320"],
+        "answer": "B"
+    },
+    {
+        "question": "Solve: (2a^3 - 5a^2 + 7a - 4) ÷ (a - 1) for a = 4",
+        "options": ["A. 48", "B. 54", "C. 60", "D. 66"],
+        "answer": "C"
+    },
+    {
+        "question": "Evaluate: sqrt(144) - 2^5 + (18 ÷ 3)",
+        "options": ["A. -4", "B. 6", "C. 12", "D. 18"],
+        "answer": "A"
+    },
+    {
+        "question": "Solve: (5x + 3)(x - 4) for x = 7",
+        "options": ["A. 100", "B. 110", "C. 120", "D. 130"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the missing number: (x^3 + 4x^2 - 2x) for x = 5",
+        "options": ["A. 125", "B. 136", "C. 148", "D. 160"],
+        "answer": "B"
+    },
+    {
+        "question": "Evaluate: (a^4 - b^4) ÷ (a - b) for a = 6, b = 2",
+        "options": ["A. 140", "B. 144", "C. 150", "D. 156"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the remainder when 37^97 is divided by 5",
+        "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+        "answer": "D"
+    },
+    {
+        "question": "Solve: (4x^4 - 6x^3 + 7x^2 - 9x + 3) ÷ (x - 1) for x = 5",
+        "options": ["A. 150", "B. 160", "C. 170", "D. 180"],
+        "answer": "B"
+    },
+    {
+        "question": "Evaluate: (x^6 - x^4) ÷ (x^2) for x = 3",
+        "options": ["A. 648", "B. 729", "C. 810", "D. 882"],
+        "answer": "A"
+    },
+    {
+        "question": "Find the unit digit of 67^999",
+        "options": ["A. 1", "B. 3", "C. 7", "D. 9"],
+        "answer": "C"
+    },
+    {
+        "question": "Solve: log_4(256) + log_5(125) - log_3(27)",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "B"
+    }
+]

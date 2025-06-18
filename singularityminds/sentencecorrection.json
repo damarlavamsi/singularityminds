@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Hardly had she left the house when she realized she had forget her keys.",
+    "options": ["A. she had forget", "B. she has forgotten", "C. she had forgotten", "D. she would forget"],
+    "answer": "C"
+  },
+  {
+    "question": "Each of the candidates were asked to submit their portfolios.",
+    "options": ["A. were asked", "B. was asked", "C. had been asked", "D. were being asked"],
+    "answer": "B"
+  },
+  {
+    "question": "Despite being late, but he was allowed to enter the hall.",
+    "options": ["A. but he was", "B. though he was", "C. he was", "D. however he was"],
+    "answer": "C"
+  },
+  {
+    "question": "The manager wants the reports typed quick and accurate.",
+    "options": ["A. quick and accurate", "B. quickly and accurately", "C. quick and accurately", "D. quickly and accurate"],
+    "answer": "B"
+  },
+  {
+    "question": "No sooner the train arrived at the station than the passengers rushed in.",
+    "options": ["A. No sooner the train", "B. No sooner had the train", "C. No sooner has the train", "D. No sooner did the train"],
+    "answer": "B"
+  },
+  {
+    "question": "Either the chairs or the table need to be replaced.",
+    "options": ["A. need to be", "B. needs to be", "C. is needed to be", "D. needing to be"],
+    "answer": "B"
+  },
+  {
+    "question": "She behaves like she was the boss.",
+    "options": ["A. like she was", "B. as if she is", "C. like she is", "D. as if she were"],
+    "answer": "D"
+  },
+  {
+    "question": "The company, along with its subsidiaries, have filed for bankruptcy.",
+    "options": ["A. have filed", "B. has filed", "C. had filed", "D. have been filed"],
+    "answer": "B"
+  },
+  {
+    "question": "Not one of the students have completed the project.",
+    "options": ["A. have completed", "B. has completed", "C. completed", "D. had completed"],
+    "answer": "B"
+  },
+  {
+    "question": "The doctor gave me some advices before the surgery.",
+    "options": ["A. advices", "B. advise", "C. advice", "D. an advise"],
+    "answer": "C"
+  },
+  {
+    "question": "There’s the man whom I think is responsible.",
+    "options": ["A. whom I think", "B. who I think", "C. which I think", "D. that I think"],
+    "answer": "B"
+  },
+  {
+    "question": "The data was compiled over months and have now been analyzed.",
+    "options": ["A. was compiled...have", "B. were compiled...has", "C. was compiling...has", "D. was compiled...has"],
+    "answer": "A"
+  },
+  {
+    "question": "The decision to postpone the event were finalized yesterday.",
+    "options": ["A. were finalized", "B. was finalize", "C. had finalized", "D. was finalized"],
+    "answer": "D"
+  },
+  {
+    "question": "Not only he sings well, but he also dances gracefully.",
+    "options": ["A. Not only he sings", "B. Not only does he sing", "C. Not only he sing", "D. Not only he has sung"],
+    "answer": "B"
+  },
+  {
+    "question": "He suggested to reschedule the meeting for next week.",
+    "options": ["A. to reschedule", "B. to be rescheduling", "C. rescheduling", "D. reschedule"],
+    "answer": "D"
+  },
+  {
+    "question": "The more he practices, better he performs.",
+    "options": ["A. better he performs", "B. the better he performs", "C. best he performs", "D. the best he performs"],
+    "answer": "B"
+  },
+  {
+    "question": "The workers demanded that their wages has to be increased.",
+    "options": ["A. has to be increased", "B. have to increase", "C. be increased", "D. should have been increased"],
+    "answer": "C"
+  },
+  {
+    "question": "Few of the money he earned was saved.",
+    "options": ["A. Few of the money", "B. A few of the money", "C. Little of the money", "D. None of the money"],
+    "answer": "C"
+  },
+  {
+    "question": "He gave me an information that proved helpful.",
+    "options": ["A. an information", "B. a information", "C. some information", "D. many informations"],
+    "answer": "C"
+  },
+  {
+    "question": "She spoke scarcely to anyone at the party.",
+    "options": ["A. spoke scarcely", "B. scarcely spoke", "C. has spoke scarcely", "D. had been scarce speaking"],
+    "answer": "B"
+  },
+  {
+    "question": "Neither the teacher nor the students was attending the workshop.",
+    "options": ["A. was attending", "B. has attended", "C. were attending", "D. attended"],
+    "answer": "C"
+  },
+  {
+    "question": "Had I known about the traffic, I would leave earlier.",
+    "options": ["A. would leave", "B. had left", "C. would have left", "D. must have left"],
+    "answer": "C"
+  },
+  {
+    "question": "The museum displayed many equipments used by early explorers.",
+    "options": ["A. many equipments", "B. much equipment", "C. numerous equipment", "D. several equipments"],
+    "answer": "B"
+  },
+  {
+    "question": "Her performance was superior than that of her rival.",
+    "options": ["A. superior than", "B. more superior than", "C. superior to", "D. most superior to"],
+    "answer": "C"
+  },
+  {
+    "question": "The coach made the players to run five extra laps.",
+    "options": ["A. made the players to run", "B. have made the players run", "C. made the players run", "D. made run the players"],
+    "answer": "C"
+  }
+]

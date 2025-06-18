@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Choose the synonym of 'Pernicious'",
+    "options": ["A. Innocuous", "B. Malignant", "C. Benign", "D. Trivial"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the antonym of 'Impetuous'",
+    "options": ["A. Hasty", "B. Deliberate", "C. Reckless", "D. Spontaneous"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the synonym of 'Esoteric'",
+    "options": ["A. Popular", "B. Unfathomable", "C. Arcane", "D. Commonplace"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the antonym of 'Obdurate'",
+    "options": ["A. Adamant", "B.Callous ", "C. Unbending", "D. Yielding"],
+    "answer": "D"
+  },
+  {
+    "question": "Choose the synonym of 'Recalcitrant'",
+    "options": ["A. Submissive", "B. Cooperative", "C. Defiant", "D. Modest"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the antonym of 'Truculent'",
+    "options": ["A. Genial", "B. Hostile", "C.Aggressive ", "D. Fierce"],
+    "answer": "A"
+  },
+  {
+    "question": "Choose the synonym of 'Intransigent'",
+    "options": ["A. Flexible", "B. Unyielding", "C. Passive", "D. Receptive"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the antonym of 'Alacrity'",
+    "options": ["A. Willingness", "B. Sluggishness", "C. Eagerness", "D. Briskness"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the synonym of 'Pulchritude'",
+    "options": ["A. Strength", "B. Wealth", "C. Beauty", "D. Wisdom"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the antonym of 'Reverent'",
+    "options": ["A. Respectful", "B. Pious", "C. Irreverent", "D. Worshipful"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the synonym of 'Quixotic'",
+    "options": ["A. Pragmatic", "B. Realistic", "C.Logical ", "D. Visionary"],
+    "answer": "D"
+  },
+  {
+    "question": "Choose the antonym of 'Insipid'",
+    "options": ["A. Boring", "B. Vapid", "C. Zesty", "D. Flat"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the synonym of 'Obfuscate'",
+    "options": ["A. Clarify", "B. Confuse", "C. Illuminate", "D. Define"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the antonym of 'Ephemeral'",
+    "options": ["A. Transient", "B. Short-lived", "C. Everlasting", "D. Fleeting"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the synonym of 'Sagacious'",
+    "options": ["A. Foolish", "B. Wise", "C. Ignorant", "D. Naive"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the synonym of 'Recondite'",
+    "options": ["A. Simple", "B. Obscure", "C. Straightforward", "D. Obvious"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the antonym of 'Profligate'",
+    "options": ["A. Wasteful", "B. Extravagant", "C. Frugal", "D. Lavish"],
+    "answer": "C"
+  },
+  {
+    "question": "Choose the synonym of 'Munificent'",
+    "options": ["A. Generous", "B. Miserly", "C. Harsh", "D. Reserved"],
+    "answer": "A"
+  },
+  {
+    "question": "Choose the antonym of 'Ascetic'",
+    "options": ["A. Austere", "B. Hedonistic", "C. Disciplined", "D. Minimalist"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the synonym of 'Lugubrious'",
+    "options": ["A. Joyful", "B. Mournful", "C. Jolly", "D. Cheerful"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the antonym of 'Indolent'",
+    "options": ["A. Sluggish", "B. Active", "C. Lazy", "D. Lethargic"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the synonym of 'Vociferous'",
+    "options": ["A. Mute", "B. Quiet", "C. Soft-spoken", "D. Noisy"],
+    "answer": "D"
+  },
+  {
+    "question": "Choose the antonym of 'Inscrutable'",
+    "options": ["A. Enigmatic", "B. Transparent", "C. Complex", "D. Mysterious"],
+    "answer": "B"
+  },
+  {
+    "question": "Choose the synonym of 'Dilatory'",
+    "options": ["A. Delaying", "B. Prompt", "C. Timely", "D. Swift"],
+    "answer": "A"
+  },
+  {
+    "question": "Choose the antonym of 'Ubiquitous'",
+    "options": ["A. Universal", "B. Omnipresent", "C. Scarce", "D. Widespread"],
+    "answer": "C"
+  }
+]

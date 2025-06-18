@@ -1,0 +1,127 @@
+[
+  {
+    "question": "She spoke with 'marked' improvement in her delivery.",
+    "options": ["A. Verb", "B. Adjective", "C. Noun", "D. Adverb"],
+    "answer": "B"
+  },
+  {
+    "question": "'Suddenly', the room went silent.",
+    "options": ["A. Verb", "B. Adjective", "C. Noun", "D. Adverb"],
+    "answer": "D"
+  },
+  {
+    "question": "The 'walk' to the summit took three hours.",
+    "options": ["A. Verb", "B. Noun", "C. Adjective", "D. Preposition"],
+    "answer": "B"
+  },
+  {
+    "question": "He is a 'fast' runner, but he also runs fast.",
+    "options": ["A. Adjective", "B. Adverb", "C. Verb", "D. Conjunction"],
+    "answer": "A"
+  },
+  {
+    "question": "The 'after' effects of the explosion were disastrous.",
+    "options": ["A. Conjunction", "B. Adverb", "C. Adjective", "D. Preposition"],
+    "answer": "C"
+  },
+  {
+    "question": "We stared in awe as the rocket 'blazed' through the sky.",
+    "options": ["A. Adjective", "B. Noun", "C. Verb", "D. Adverb"],
+    "answer": "C"
+  },
+  {
+    "question": "They arrived 'before' the ceremony began.",
+    "options": ["A. Noun", "B. Conjunction", "C. Adjective", "D. Verb"],
+    "answer": "B"
+  },
+  {
+    "question": "I consider honesty a great 'virtue'.",
+    "options": ["A. Verb", "B. Adjective", "C. Noun", "D. Adverb"],
+    "answer": "C"
+  },
+  {
+    "question": "The 'only' survivor told his story.",
+    "options": ["A. Conjunction", "B. Noun", "C. Adverb", "D. Adjective"],
+    "answer": "D"
+  },
+  {
+    "question": "'Over' the river and through the woods we went.",
+    "options": ["A. Preposition", "B. Conjunction", "C. Adverb", "D. Article"],
+    "answer": "A"
+  },
+  {
+    "question": "He is the man 'whose' dog won the championship.",
+    "options": ["A. Conjunction", "B. Relative Pronoun", "C. Preposition", "D. Adjective"],
+    "answer": "B"
+  },
+  {
+    "question": "I was tired, 'yet' I kept walking.",
+    "options": ["A. Conjunction", "B. Adverb", "C. Preposition", "D. Verb"],
+    "answer": "A"
+  },
+  {
+    "question": "The professor gave an 'illustrative' example.",
+    "options": ["A. Verb", "B. Adjective", "C. Adverb", "D. Noun"],
+    "answer": "B"
+  },
+  {
+    "question": "'To err' is human.",
+    "options": ["A. Gerund", "B. Infinitive", "C. Preposition", "D. Conjunction"],
+    "answer": "B"
+  },
+  {
+    "question": "That movie was not just boring—it was 'agonizingly' slow.",
+    "options": ["A. Adverb", "B. Adjective", "C. Interjection", "D. Verb"],
+    "answer": "A"
+  },
+  {
+    "question": "The idea is 'still' under consideration.",
+    "options": ["A. Adjective", "B. Verb", "C. Adverb", "D. Conjunction"],
+    "answer": "C"
+  },
+  {
+    "question": "The twins were too 'alike' to tell apart.",
+    "options": ["A. Adverb", "B. Adjective", "C. Verb", "D. Preposition"],
+    "answer": "B"
+  },
+  {
+    "question": "'Alas!' We lost the match.",
+    "options": ["A. Adjective", "B. Conjunction", "C. Interjection", "D. Verb"],
+    "answer": "C"
+  },
+  {
+    "question": "'Much' has been said about the incident.",
+    "options": ["A. Pronoun", "B. Determiner", "C. Adverb", "D. Noun"],
+    "answer": "B"
+  },
+  {
+    "question": "They watched him 'climb' the wall with ease.",
+    "options": ["A. Noun", "B. Adjective", "C. Verb", "D. Adverb"],
+    "answer": "C"
+  },
+  {
+    "question": "We will support 'whoever' you choose.",
+    "options": ["A. Conjunction", "B. Pronoun", "C. Noun", "D. Adverb"],
+    "answer": "B"
+  },
+  {
+    "question": "The agreement was signed in 'good' faith.",
+    "options": ["A. Noun", "B. Adjective", "C. Adverb", "D. Verb"],
+    "answer": "B"
+  },
+  {
+    "question": "I walked past the library and 'into' the gallery.",
+    "options": ["A. Conjunction", "B. Preposition", "C. Adjective", "D. Verb"],
+    "answer": "B"
+  },
+  {
+    "question": "They arrived, 'tired' but victorious.",
+    "options": ["A. Verb", "B. Adjective", "C. Adverb", "D. Noun"],
+    "answer": "B"
+  },
+  {
+    "question": "The teacher 'made' him stay late.",
+    "options": ["A. Verb", "B. Adjective", "C. Conjunction", "D. Preposition"],
+    "answer": "A"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "The sun is the closest star to Earth.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Chocolate ice cream tastes better than vanilla.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "Water boils at 100 degrees Celsius at sea level.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Dogs are the most loyal pets.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "The capital of France is Paris.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Reading books is the best way to spend free time.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "Mount Everest is the tallest mountain on Earth.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Pizza is the most delicious food ever made.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "There are seven continents on Earth.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Summer is the most enjoyable season.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "The Great Wall of China can be seen from space only with aid.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Classical music is boring.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "The Amazon is the largest rainforest in the world.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Exercising daily improves physical health.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Action movies are better than romantic comedies.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "Bananas are a good source of potassium.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Learning math is more important than learning art.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "Mercury is the closest planet to the sun.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Tigers are more beautiful than lions.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "The human body has 206 bones.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Running is more fun than swimming.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "Jupiter is the largest planet in our solar system.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Cameras were invented in the 19th century.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  },
+  {
+    "question": "Spicy food is the best kind of cuisine.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "B"
+  },
+  {
+    "question": "The Pacific Ocean is deeper than the Atlantic Ocean.",
+    "options": ["A. Fact", "B. Opinion"],
+    "answer": "A"
+  }
+]

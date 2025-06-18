@@ -1,0 +1,114 @@
+[
+    {
+        "question":"  Find the cost price of Amul Paneer which is sold at Rs. 300 at a loss of 25%?",
+        "options":["A. Rs.550 ", "B. Rs.400", "C.Rs.450","D. Rs.520"],
+        "answer":"B"
+
+    },
+    {
+        "question":"  The cost price of an article is Rs. 560 and Munna Bhaiya sells it at profit of 12.5%. Find the selling price?",
+        "options":["A. Rs.50 ", "B. Rs.150", "C. Rs.70","D. Rs.120"],
+        "answer":"C"
+
+    },
+    {
+        "question":"  A mobile costing Rs. 24000 is sold and a profit of 10% is received. Find selling price of mobile.",
+        "options":["A. Rs.27550 ", "B. Rs.26400", "C. Rs.24450","D. Rs.28520"],
+        "answer":"B"
+
+    },
+    {
+        "question":"  . A bicycle has a cost price of Rs. 3000 and is sold at a loss of 15%. Find the selling price.",
+        "options":["A. Rs.2550 ", "B. Rs.1150", "C. Rs.1770","D. Rs.2820"],
+        "answer":"A"
+
+    },
+    {
+        "question":" An item is sold for Rs.240 thereby getting a profit of 20%. Find cost price of item.",
+        "options":["A. Rs.180 ", "B. Rs.200", "C. Rs.350","D. Rs.120"],
+        "answer":"B"
+
+    },
+
+  {
+    "question": "A trader marks his goods 40% above the cost price and gives a discount of 20%. What is his gain or loss percentage?",
+    "options": ["A. 20% profit", "B. 12% profit", "C. 10% profit", "D. 8% profit"],
+    "answer": "C"
+  },
+  {
+    "question": "An article is sold for ₹240 at a loss of 20%. For how much should it be sold to gain 20%?",
+    "options": ["A. ₹280", "B. ₹300", "C. ₹320", "D. ₹360"],
+    "answer": "D"
+  },
+  {
+    "question": "If the cost price of 15 articles is equal to the selling price of 12 articles, what is the profit percentage?",
+    "options": ["A. 20%", "B. 25%", "C. 30%", "D. 35%"],
+    "answer": "B"
+  },
+  {
+    "question": "A man buys a fan for ₹1200 and sells it at a loss of 15%. What is the selling price?",
+    "options": ["A. ₹1020", "B. ₹1050", "C. ₹990", "D. ₹1080"],
+    "answer": "C"
+  },
+  {
+    "question": "A shopkeeper sells two items each at ₹100—one at 25% gain and the other at 25% loss. What is the overall result?",
+    "options": ["A. No profit no loss", "B. 6.25% profit", "C. 6.25% loss", "D. 12.5% loss"],
+    "answer": "C"
+  },
+  {
+    "question": "An article is marked at ₹500. A successive discount of 10% and 20% is given. What is the final selling price?",
+    "options": ["A. ₹350", "B. ₹360", "C. ₹375", "D. ₹400"],
+    "answer": "C"
+  },
+  {
+    "question": "A man sold an article at 10% profit. If he had sold it for ₹40 more, the profit would be 20%. What is the cost price?",
+    "options": ["A. ₹360", "B. ₹400", "C. ₹440", "D. ₹480"],
+    "answer": "B"
+  },
+  {
+    "question": "A person incurs a loss of 10% on selling a chair for ₹540. What is the cost price?",
+    "options": ["A. ₹590", "B. ₹600", "C. ₹615", "D. ₹625"],
+    "answer": "B"
+  },
+  {
+    "question": "If the selling price of an article is 5/4 of its cost price, what is the profit percentage?",
+    "options": ["A. 20%", "B. 25%", "C. 30%", "D. 40%"],
+    "answer": "B"
+  },
+  {
+    "question": "By selling an article for ₹1000, a man gains 25%. What will be the selling price to gain 40%?",
+    "options": ["A. ₹1100", "B. ₹1150", "C. ₹1200", "D. ₹1250"],
+    "answer": "C"
+  },
+    {
+        "question":" An iron is sold for Rs.315 and incurred a loss of 10%. Find the cost price of iron. ",
+        "options":["A. Rs.350 ", "B. Rs.450", "C. Rs.370","D. Rs.420"],
+        "answer":"A"
+
+    },
+    {
+        "question":" A shopkeeper sells items at cost price but he uses a weight of 920 gram for 1 Kg. Find his gain percent. ",
+        "options":["A. 9.72% ", "B. 9.26%", "C. 8.16%","D. 8.69%"],
+        "answer":"D"
+
+    },
+    {
+        "question":"  If in place of 1 kg weight, a weight of 800 grams is used and the goods are sold at cost price, find the profit percent. ",
+        "options":["A. 37% ", "B. 49%", "C. 25%","D. 8.19%"],
+        "answer":"C"
+},
+    {
+        "question":"A  dealer sells items at 20% profit and also uses a weight which is 10% less than actual, find his net profit percent.  ",
+        "options":["A. 29.72% ", "B. 49.26%", "C. 33.33%","D. 38.69%"],
+        "answer":"C"
+
+    },
+    {
+        "question":"   Peter buys a brand new Honda bicycle for Rs. 800/-. He uses it for a year and then sells it. He makes a profit of 10% in this transaction. Then again he buys a new cycle but finds that the price has gone up by 20 %. He uses it for a year and then sells it for a profit of 30%. Find the average annual profit of Peter. ",
+        "options":["A. 368 ", "B. 495", "C. 254","D. 8.184"],
+        "answer":"D"
+}
+    
+
+
+]

@@ -1,0 +1,135 @@
+ [
+    {
+      "question": "How many ways can the letters of the word 'MATH' be arranged?",
+      "options": ["A.12", "B.24", "C.16", "D.30"],
+      "answer": "B"
+    },
+    {
+      "question": "A box contains 6 red balls and 4 blue balls. In how many ways can 3 balls be chosen?",
+      "options": ["A.120", "B.60", "C.80", "D.40"],
+      "answer": "B"
+    },
+    {
+      "question": "How many ways can a committee of 4 people be formed from a group of 8 people?",
+      "options": ["A.56", "B.70", "C.32", "D.168"],
+      "answer": "B"
+    },
+    {
+      "question": "A student needs to answer 3 out of 5 questions in an exam. How many ways can the student choose the questions?",
+      "options": ["A.5", "B.10", "C.15", "D.20"],
+      "answer": "B"
+    },
+    {
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": ["A.5", "B.24", "C.120", "D.60"],
+      "answer": "C"
+    },
+    {
+      "question": "A password consists of 3 different letters chosen from A, B, C, D, E. How many such passwords can be formed?",
+      "options": ["A.60", "B.20", "C.40", "D.120"],
+      "answer": "A"
+    },
+    {
+      "question": "A school has 6 boys and 4 girls. A team of 3 students is to be selected. How many ways can this be done?",
+      "options": ["A.120", "B.60", "C.80", "D.40"],
+      "answer": "C"
+    },
+    {
+      "question": "How many ways can the letters of the word 'SUCCESS' be arranged?",
+      "options": ["A.420", "B.840", "C.1260", "D.2520"],
+      "answer": "B"
+    },
+    {
+      "question": "How many different 4-digit numbers can be formed using the digits 1, 2, 3, 4, 5 without repetition?",
+      "options": ["A.120", "B.60", "C.20", "D.100"],
+      "answer": "A"
+    },
+
+  {
+    "question": "How many different words can be formed from the letters of the word 'MISSISSIPPI'?",
+    "options": ["A. 34650", "B. 34620", "C. 34600", "D. 34680"],
+    "answer": "A"
+  },
+  {
+    "question": "In how many ways can the letters of the word 'ALGORITHM' be arranged so that all vowels always come together?",
+    "options": ["A. 43200", "B. 50400", "C. 40320", "D. 60480"],
+    "answer": "C"
+  },
+  {
+    "question": "From 7 men and 6 women, a committee of 5 is to be formed. How many ways can it be formed with at least 3 women?",
+    "options": ["A. 462", "B. 525", "C. 615", "D. 735"],
+    "answer": "C"
+  },
+  {
+    "question": "How many 4-digit numbers can be formed from digits 1 to 9 such that digits are distinct and number is even?",
+    "options": ["A. 945", "B. 1008", "C. 1200", "D. 1512"],
+    "answer": "B"
+  },
+  {
+    "question": "How many permutations of the word 'INDEPENDENT' have all E's together?",
+    "options": ["A. 9979200", "B. 1360800", "C. 1512000", "D. 1209600"],
+    "answer": "C"
+  },
+  {
+    "question": "From a group of 10 people, how many ways can 4 of them sit in a row?",
+    "options": ["A. 210", "B. 5040", "C. 840", "D. 720"],
+    "answer": "C"
+  },
+  {
+    "question": "How many 5-digit numbers can be formed using digits 0–9, without repetition and starting with non-zero?",
+    "options": ["A. 30240", "B. 27216", "C. 45360", "D. 50400"],
+    "answer": "D"
+  },
+  {
+    "question": "How many ways can 5 boys and 5 girls be seated in a row such that no two girls sit together?",
+    "options": ["A. 172800", "B. 144000", "C. 86400", "D. 120960"],
+    "answer": "A"
+  },
+  {
+    "question": "In how many ways can 8 people be seated around a circular table such that two specific persons must not sit together?",
+    "options": ["A. 43200", "B. 10080", "C. 5040", "D. 4320"],
+    "answer": "D"
+  },
+  {
+    "question": "From the digits 1 to 7, how many 3-digit odd numbers can be formed without repetition?",
+    "options": ["A. 120", "B. 125", "C. 210", "D. 105"],
+    "answer": "C"
+  },
+    {
+      "question": "How many ways can 3 students be arranged in a row?",
+      "options": ["A.3", "B.6", "C.9", "D.12"],
+      "answer": "B"
+    },
+    {
+      "question": "If we have 10 people and 4 chairs, what are the number of ways to seat them?   ",
+      "options": ["A.5040", "B.3786", "C.4990", "D.6550"],
+      "answer": "A"
+    },
+      {
+      "question": "  In how many ways can we form a 5 lettered word? No repetition, starting with ‘a’ and ending with ‘z’.   ",
+      "options": ["A.13289", "B.16750", "C.19256", "D.12144"],
+      "answer": "D"
+    },
+      {
+      "question": "   In how many ways a committee consisting of 4 men and 2 women, can be chosen from 6 men and 5 women?  ",
+      "options": ["A.130", "B.160", "C.190", "D.150"],
+      "answer": "D"
+    },
+      {
+      "question": "  In how many ways a committee consisting of 5 men and 3 women, can be chosen from 9 men and 12 women?   ",
+      "options": ["A.33569", "B.16543", "C.27720", "D.12345"],
+      "answer": "C"
+    },
+    {
+      "question": " How many ways can the letters of the word 'CONTINENTAL' be arranged? ",
+      "options": ["A.11! / (2! * 2! * 2!) ways", "B.5! / (3! * 4! * 2!)", "C.11! / (3! * 2! * 4!)", "D.7! / (2! * 4! * 2!)"],
+      "answer": "A"
+    }
+
+
+
+
+
+
+
+  ]

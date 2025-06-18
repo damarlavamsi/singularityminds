@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Find the largest 4-digit number that is exactly divisible by 89.",
+        "options": ["A. 9801", "B. 9999", "C. 9909", "D. 9879"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the remainder when 325^27 is divided by 6?",
+        "options": ["A. 1", "B. 3", "C. 5", "D. 0"],
+        "answer": "A"
+    },
+    {
+        "question": "Find the smallest 5-digit number that is exactly divisible by 72.",
+        "options": ["A. 10008", "B. 10080", "C. 10152", "D. 10224"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the unit digit of 7^155?",
+        "options": ["A. 1", "B. 3", "C. 7", "D. 9"],
+        "answer": "C"
+    },
+    {
+        "question": "Find the sum of all prime numbers between 50 and 70.",
+        "options": ["A. 260", "B. 273", "C. 282", "D. 294"],
+        "answer": "C"
+    },
+    {
+        "question": "Find the HCF of 420 and 660.",
+        "options": ["A. 20", "B. 60", "C. 120", "D. 150"],
+        "answer": "B"
+    },
+    {
+        "question": "LCM of two numbers is 924 and their HCF is 42. If one of the numbers is 252, find the other number.",
+        "options": ["A. 126", "B. 154", "C. 168", "D. 172"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the remainder when 1499 is divided by 37?",
+        "options": ["A. 23", "B. 25", "C. 27", "D. 30"],
+        "answer": "C"
+    },
+    {
+        "question": "Find the total number of integers between 300 and 600 that are divisible by both 9 and 15.",
+        "options": ["A. 10", "B. 12", "C. 14", "D. 16"],
+        "answer": "B"
+    },
+    {
+        "question": "Solve for x: If x + 3x = 432, then find x.",
+        "options": ["A. 108", "B. 112", "C. 116", "D. 120"],
+        "answer": "A"
+    },
+    {
+        "question": "Find the remainder when 19^45 is divided by 7.",
+        "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+        "answer": "D"
+    },
+    {
+        "question": "A number when divided by 45 leaves a remainder of 21. What will be the remainder if the same number is divided by 9?",
+        "options": ["A. 1", "B. 3", "C. 5", "D. 6"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the sum of all numbers between 300 and 500 that are divisible by 13.",
+        "options": ["A. 7392", "B. 7420", "C. 7456", "D. 7488"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the last two digits of 23^87?",
+        "options": ["A. 09", "B. 17", "C. 23", "D. 27"],
+        "answer": "B"
+    },
+    {
+        "question": "Solve: 7x - 5 = 6x + 9. Find x.",
+        "options": ["A. 14", "B. 16", "C. 18", "D. 20"],
+        "answer": "A"
+    }
+]

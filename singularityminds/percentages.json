@@ -1,0 +1,103 @@
+[
+  {
+    "question": " A number is increased by 25%, then it becomes 600. The original number is __",
+    "options": ["A. 500", "B. 480", "C. 600", "D. 580"],
+    "answer": "B"
+  },
+  {
+    "question": " A number is decreased by 20%, then it becomes 120. The original number is __",
+    "options": ["A. 150", "B. 125", "C. 235", "D. 180"],
+    "answer": "A"
+  },
+  {
+    "question": "An article costs ₹200. It is sold at a 10% profit. What is the selling price?",
+    "options": ["A. ₹210", "B. ₹220", "C. ₹230", "D. ₹240"],
+    "answer": "A"
+  },
+  {
+    "question": "  A number is decreased by 33 + 1/3 %, then it becomes 180. The original number is __ ",
+    "options": ["A. 360", "B. 180", "C. 390", "D. 270"],
+    "answer": "D"
+  },
+  {
+    "question": "The price of a shirt was increased by 15% to ₹460. What was its original price?",
+    "options": ["A. ₹400", "B. ₹410", "C. ₹420", "D. ₹430"],
+    "answer": "A"
+  },
+  {
+    "question": "A student scores 36 out of 60. What is the percentage score?",
+    "options": ["A. 50%", "B. 60%", "C. 70%", "D. 80%"],
+    "answer": "B"
+  },
+  {
+    "question": "The population increased from 8000 to 8800. What is the percentage increase?",
+    "options": ["A. 10%", "B. 11%", "C. 12%", "D. 9%"],
+    "answer": "A"
+  },
+  {
+    "question": " The total income Yash Sir of 2017, 2018, 2019 is Rs. 364. Every year the salary increases by 20%. What is the income in 2017?",
+    "options": ["A. Rs.96", "B. Rs.100", "C. Rs.104", "D. Rs.108"],
+    "answer": "B"
+  },
+  {
+    "question": "A value increases by 20% and then decreases by 20%. What is the net percentage change?",
+    "options": ["A. No change", "B. 4% increase", "C. 4% decrease", "D. 8% decrease"],
+    "answer": "C"
+  },
+  {
+    "question": "After spending 40% of his salary, Ravi gave 30% of the remaining to his parents. If he is left with ₹12,600, what is his original salary?",
+    "options": ["A. ₹28,000", "B. ₹30,000", "C. ₹35,000", "D. ₹36,000"],
+    "answer": "D"
+  },
+  {
+    "question": "The population of a city increases by 10% annually. If it becomes 1,33,100 in 2 years, what was it 2 years ago?",
+    "options": ["A. 1,10,000", "B. 1,15,000", "C. 1,20,000", "D. 1,25,000"],
+    "answer": "A"
+  },
+  {
+    "question": "In a class, 25% of students passed in both Math and English. 42% passed in Math and 58% in English. What percent failed in both?",
+    "options": ["A. 25%", "B. 15%", "C. 5%", "D. 10%"],
+    "answer": "C"
+  },
+  {
+    "question": "The price of sugar increases by 25%. By what percent should a household reduce consumption so that the expenditure remains same?",
+    "options": ["A. 25%", "B. 20%", "C. 18%", "D. 16.67%"],
+    "answer": "D"
+  },
+  {
+    "question": "If 45% of A = 30% of B, then what percent of A is B?",
+    "options": ["A. 80%", "B. 120%", "C. 150%", "D. 200%"],
+    "answer": "C"
+  },
+  {
+    "question": "The number is increased by x% and then decreased by x%. The final result is 36 less than the original. If x = 20, what is the original number?",
+    "options": ["A. 1000", "B. 900", "C. 1200", "D. 1100"],
+    "answer": "C"
+  },
+  {
+    "question": "The value of an article increases by 10% every year. If its value is ₹48,400 after 2 years, find its original value.",
+    "options": ["A. ₹40,000", "B. ₹42,000", "C. ₹44,000", "D. ₹45,000"],
+    "answer": "A"
+  },
+  {
+    "question": "A student secures 30% of total marks and fails by 15 marks. If the passing marks are 40%, what are the maximum marks?",
+    "options": ["A. 150", "B. 200", "C. 250", "D. 300"],
+    "answer": "B"
+  },
+  {
+    "question": "A number is first increased by 10%, then again by 20%, and finally decreased by 25%. What is the net percentage change?",
+    "options": ["A. 1% decrease", "B. 1% increase", "C. 2% decrease", "D. No change"],
+    "answer": "A"
+  },
+{
+    "question": "The total income of Eesha in the years 2003, 2004, 2005 was $36,400. Her income increased by 20% each year. What was her income in 2005?",
+    "options": ["A. 14400", "B. 4560", "C. 59800", "D. 23480"],
+    "answer": "A"
+  },
+  {
+    "question": "You and your crush wrote the TCS NQT test. While you scored 45% and got 4 marks below the cut-off. Your crush scored 60% and got 8 marks above cut-off and got selected for the interview. What was the maximum marks in the test?",
+    "options": ["A. 99", "B. 70", "C. 80", "D. 65"],
+    "answer": "C"
+  }
+  
+]

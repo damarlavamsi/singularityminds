@@ -1,0 +1,127 @@
+[
+  {
+    "question": "A person who pretends to have moral standards or beliefs to which their behavior does not conform",
+    "options": ["A. Skeptic", "B. Cynic", "C. Hypocrite", "D. Charlatan"],
+    "answer": "C"
+  },
+  {
+    "question": "One who loves and supports his country",
+    "options": ["A. Nationalist", "B. Patriot", "C. Chauvinist", "D. Fanatic"],
+    "answer": "B"
+  },
+  {
+    "question": "A speech delivered without prior preparation",
+    "options": ["A. Retrospective", "B. Extempore", "C. Rehearsed", "D. Oration"],
+    "answer": "B"
+  },
+  {
+    "question": "A person who lives in solitude to focus on spiritual goals",
+    "options": ["A. Hermit", "B. Recluse", "C. Monk", "D. Ascetic"],
+    "answer": "D"
+  },
+  {
+    "question": "A person who collects or studies coins",
+    "options": ["A. Numismatist", "B. Cartographer", "C. Philatelist", "D. Curator"],
+    "answer": "A"
+  },
+  {
+    "question": "Something that causes death",
+    "options": ["A. Morbid", "B. Fatal", "C. Virulent", "D. Toxic"],
+    "answer": "B"
+  },
+  {
+    "question": "One who intervenes between two parties to settle a dispute",
+    "options": ["A. Arbitrator", "B. Interrogator", "C. Litigator", "D. Emissary"],
+    "answer": "A"
+  },
+  {
+    "question": "A person who has no fixed home and wanders",
+    "options": ["A. Itinerant", "B. Vagrant", "C. Nomad", "D. Drifter"],
+    "answer": "B"
+  },
+  {
+    "question": "A person who believes pleasure is the highest good",
+    "options": ["A. Pragmatist", "B. Hedonist", "C. Nihilist", "D. Stoic"],
+    "answer": "B"
+  },
+  {
+    "question": "Words engraved on a tombstone",
+    "options": ["A. Autograph", "B. Biography", "C. Epitaph", "D. Elegy"],
+    "answer": "C"
+  },
+  {
+    "question": "A government ruled by a small elite group",
+    "options": ["A. Oligarchy", "B. Bureaucracy", "C. Technocracy", "D. Autocracy"],
+    "answer": "A"
+  },
+  {
+    "question": "The art of effective public speaking",
+    "options": ["A. Dialectics", "B. Semantics", "C. Elocution", "D. Oratory"],
+    "answer": "D"
+  },
+  {
+    "question": "A place where weapons and ammunition are stored",
+    "options": ["A. Conservatory", "B. Sanctuary", "C. Arsenal", "D. Pantry"],
+    "answer": "C"
+  },
+  {
+    "question": "The branch of medicine concerned with childbirth",
+    "options": ["A. Pediatrics", "B. Obstetrics", "C. Gynecology", "D. Geriatrics"],
+    "answer": "B"
+  },
+  {
+    "question": "A person or thing that is the direct opposite of someone or something else",
+    "options": ["A. Antagonist", "B. Converse", "C. Reverse", "D. Antithesis"],
+    "answer": "D"
+  },
+  {
+    "question": "One who abandons their religious faith or political beliefs",
+    "options": ["A. Apostate", "B. Atheist", "C. Heretic", "D. Renegade"],
+    "answer": "A"
+  },
+  {
+    "question": "A record of events year by year",
+    "options": ["A. Annals", "B. Archives", "C. Biography", "D. Journal"],
+    "answer": "A"
+  },
+  {
+    "question": "A person who studies weather and atmospheric conditions",
+    "options": ["A. Astronomer", "B. Meteorologist", "C. Climatologist", "D. Geophysicist"],
+    "answer": "B"
+  },
+  {
+    "question": "An event or object marking an important stage or change",
+    "options": ["A. Beacon", "B. Turning point", "C. Milestone", "D. Threshold"],
+    "answer": "C"
+  },
+  {
+    "question": "A person who supports or promotes new ideas or methods",
+    "options": ["A. Pioneer", "B. Reformer", "C. Trailblazer", "D. Innovator"],
+    "answer": "D"
+  },
+  {
+    "question": "The belief that nothing can be known about God or the supernatural",
+    "options": ["A. Deism", "B. Nihilism", "C. Agnosticism", "D. Theism"],
+    "answer": "C"
+  },
+  {
+    "question": "A statement that appears contradictory but may be true",
+    "options": ["A. Irony", "B. Paradox", "C. Oxymoron", "D. Dilemma"],
+    "answer": "B"
+  },
+  {
+    "question": "The science of the human mind and behavior",
+    "options": ["A. Neurology", "B. Psychology", "C. Sociology", "D. Anthropology"],
+    "answer": "B"
+  },
+  {
+    "question": "A system of naming, especially in biology",
+    "options": ["A. Lexicon", "B. Terminology", "C. Taxonomy", "D. Glossary"],
+    "answer": "C"
+  },
+  {
+    "question": "A person indifferent to emotion or pain",
+    "options": ["A. Pessimist", "B. Stoic", "C. Martyr", "D. Ascetic"],
+    "answer": "B"
+  }
+]

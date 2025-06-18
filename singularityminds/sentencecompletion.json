@@ -1,0 +1,127 @@
+[
+  {
+    "question": "The scientist remained _____ in the face of criticism, responding calmly and logically.",
+    "options": ["A. indifferent", "B. agitated", "C. composed", "D. dismissive"],
+    "answer": "C"
+  },
+  {
+    "question": "Despite the actor’s fame, he was remarkably _____, never seeking the spotlight offstage.",
+    "options": ["A. arrogant", "B. modest", "C. flamboyant", "D. indifferent"],
+    "answer": "B"
+  },
+  {
+    "question": "Because of the storm, the event was _____ until further notice.",
+    "options": ["A. postponed", "B. advanced", "C. resumed", "D. ignored"],
+    "answer": "A"
+  },
+  {
+    "question": "The essay lacked clarity and was filled with _____ arguments.",
+    "options": ["A. coherent", "B. disjointed", "C. persuasive", "D. concise"],
+    "answer": "B"
+  },
+  {
+    "question": "She always speaks with great _____, choosing her words carefully.",
+    "options": ["A. haste", "B. recklessness", "C. precision", "D. vagueness"],
+    "answer": "C"
+  },
+  {
+    "question": "The manager’s explanation was so _____ that no one had further questions.",
+    "options": ["A. vague", "B. verbose", "C. confusing", "D. lucid"],
+    "answer": "D"
+  },
+  {
+    "question": "His performance in the finals was a _____ of his true potential.",
+    "options": ["A. glimpse", "B. dismissal", "C. misstep", "D. concealment"],
+    "answer": "A"
+  },
+  {
+    "question": "The committee’s decision was met with _____ from the community.",
+    "options": ["A. applause", "B. indifference", "C. outrage", "D. gratitude"],
+    "answer": "C"
+  },
+  {
+    "question": "Unlike her brother, who is gregarious, she is rather _____.",
+    "options": ["A. outgoing", "B. talkative", "C. reserved", "D. assertive"],
+    "answer": "C"
+  },
+  {
+    "question": "The monument was erected to _____ the heroes of the nation.",
+    "options": ["A. dismiss", "B. belittle", "C. commemorate", "D. criticize"],
+    "answer": "C"
+  },
+  {
+    "question": "Her tone was so _____ that it hurt his feelings despite her harmless words.",
+    "options": ["A. sarcastic", "B. gentle", "C. sincere", "D. timid"],
+    "answer": "A"
+  },
+  {
+    "question": "The results of the experiment were _____; they strongly supported the hypothesis.",
+    "options": ["A. inconclusive", "B. contradictory", "C. compelling", "D. irrelevant"],
+    "answer": "C"
+  },
+  {
+    "question": "A strict diet and exercise regimen enabled him to _____ his strength.",
+    "options": ["A. regain", "B. abandon", "C. reduce", "D. overlook"],
+    "answer": "A"
+  },
+  {
+    "question": "Though the painting looked simple, it was filled with _____ symbolism.",
+    "options": ["A. superficial", "B. profound", "C. meaningless", "D. accidental"],
+    "answer": "B"
+  },
+  {
+    "question": "The minister made a(n) _____ attempt to address public concerns.",
+    "options": ["A. insincere", "B. genuine", "C. reluctant", "D. delayed"],
+    "answer": "B"
+  },
+  {
+    "question": "She _____ the opportunity to showcase her work at the exhibition.",
+    "options": ["A. ignored", "B. squandered", "C. seized", "D. lamented"],
+    "answer": "C"
+  },
+  {
+    "question": "His novel is a _____ critique of modern consumer culture.",
+    "options": ["A. vague", "B. scathing", "C. timid", "D. irrelevant"],
+    "answer": "B"
+  },
+  {
+    "question": "The child was _____ after being caught lying again.",
+    "options": ["A. praised", "B. forgiven", "C. scolded", "D. rewarded"],
+    "answer": "C"
+  },
+  {
+    "question": "Rather than arguing, he chose to _____ the issue entirely.",
+    "options": ["A. address", "B. embrace", "C. avoid", "D. confront"],
+    "answer": "C"
+  },
+  {
+    "question": "The historian offered a _____ account of the war, backed by evidence.",
+    "options": ["A. biased", "B. superficial", "C. reliable", "D. imaginative"],
+    "answer": "C"
+  },
+  {
+    "question": "He is known for his _____ sense of humor, often making jokes in tense moments.",
+    "options": ["A. gloomy", "B. dry", "C. inappropriate", "D. cheerful"],
+    "answer": "B"
+  },
+  {
+    "question": "The director’s latest film was praised for its _____ storytelling and visual elegance.",
+    "options": ["A. erratic", "B. disjointed", "C. seamless", "D. repetitive"],
+    "answer": "C"
+  },
+  {
+    "question": "She gave a _____ response, which clearly showed her displeasure.",
+    "options": ["A. curt", "B. elaborate", "C. vague", "D. cheerful"],
+    "answer": "A"
+  },
+  {
+    "question": "The company adopted a _____ approach to innovation, encouraging experimentation.",
+    "options": ["A. cautious", "B. rigid", "C. progressive", "D. outdated"],
+    "answer": "C"
+  },
+  {
+    "question": "The crowd erupted in _____ after the winning goal.",
+    "options": ["A. silence", "B. applause", "C. confusion", "D. protest"],
+    "answer": "B"
+  }
+]

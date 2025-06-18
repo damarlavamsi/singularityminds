@@ -1,0 +1,137 @@
+[
+    {
+        "question": "What is the value of x?",
+        "statements": [
+            "1) x^2 - 4x + 4 = 0",
+            "2) x is a positive integer"
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the average speed of a train?",
+        "statements": [
+            "1) The train covers 450 km in 9 hours.",
+            "2) The speed remains constant throughout the journey."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "A"
+    },
+    {
+        "question": "Is p a prime number?",
+        "statements": [
+            "1) p is an integer greater than 1.",
+            "2) p has exactly two distinct positive divisors."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the perimeter of a parallelogram?",
+        "statements": [
+            "1) The length of one side is twice the other side.",
+            "2) The area of the parallelogram is 120 square units."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the sum of two numbers?",
+        "statements": [
+            "1) The numbers are consecutive even integers.",
+            "2) The smaller number is 14."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "Is y a negative number?",
+        "statements": [
+            "1) y is a solution to the equation y^2 - 16 = 0.",
+            "2) y is less than 0."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the total number of students in a class?",
+        "statements": [
+            "1) There are twice as many boys as girls.",
+            "2) The number of boys is 20."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the value of n?",
+        "statements": [
+            "1) n^3 = 27",
+            "2) n is an integer"
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the cost of a discounted item?",
+        "statements": [
+            "1) The original price is $100.",
+            "2) A 30% discount is applied."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "Is a given triangle ABC a right triangle?",
+        "statements": [
+            "1) The sides satisfy the equation a^2 + b^2 = c^2.",
+            "2) One angle of the triangle is 90 degrees."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the sum of angles in a hexagon?",
+        "statements": [
+            "1) A hexagon has six sides.",
+            "2) The hexagon is a regular polygon."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "A"
+    },
+    {
+        "question": "Is x divisible by 6?",
+        "statements": [
+            "1) x is a multiple of 12.",
+            "2) x is an integer."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the length of a diagonal in a rectangle?",
+        "statements": [
+            "1) The length is 8 units and the width is 6 units.",
+            "2) The rectangle is a right-angled quadrilateral."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the volume of a cylinder?",
+        "statements": [
+            "1) The radius is 5 units.",
+            "2) The height is 10 units."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the probability of drawing a red card from a deck?",
+        "statements": [
+            "1) There are 52 cards in a deck.",
+            "2) Half of the cards are red."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    }
+]

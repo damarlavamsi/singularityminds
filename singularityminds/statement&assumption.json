@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Statement: The government has decided to increase the tax on luxury items.\nAssumption:\n1. Luxury items are not essential for common people.\n2. The government needs more revenue.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both 1 and 2 are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: Children are influenced more by movies than by books.\nAssumption:\n1. Movies are more appealing to children.\n2. Books are not useful for children.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "A"
+  },
+  {
+    "question": "Statement: ‘Smoking is injurious to health’ – a warning on all cigarette packs.\nAssumption:\n1. People read warnings on packs.\n2. Such warnings will reduce smoking.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: To improve the state of education, the government must allocate more funds.\n Assumption:\n 1. Lack of funds is one of the main reasons for the poor education system.\n 2. The education system needs urgent reform.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: We must reduce our dependence on imported oil.\nAssumption:\n1. Imported oil is costly.\n2. Alternatives to oil are available.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "A"
+  },
+  {
+    "question": "Statement: The manager asked the workers to work overtime to complete the project on time.\nAssumption:\n1. The project can't be completed in time otherwise.\n2. The workers may agree to do overtime.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: Use vitamin-rich shampoo for strong and shiny hair.\nAssumption:\n1. People want strong and shiny hair.\n2. Vitamins help improve hair quality.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: The high court has prohibited any religious gathering in the area.\nAssumption:\n1. Religious gatherings are likely to disturb peace.\n2. People obey high court orders.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: Every student must submit the assignment before the due date to pass the exam.\nAssumption:\n1. Assignments are evaluated for exams.\n2. Late submissions will not be accepted.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: A job advertisement stated: 'Preference will be given to candidates with communication skills.'\nAssumption:\n1. Communication skills are not easy to find.\n2. Communication skills are important for the job.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "B"
+  },
+  {
+    "question": "Statement: 'Switch off the lights when not in use' – a notice in offices.\nAssumption:\n1. Electricity should be conserved.\n2. People don't switch off lights on their own.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: More and more people are enrolling in fitness programs.\nAssumption:\n1. People are becoming health conscious.\n2. Fitness programs are effective.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "A"
+  },
+  {
+    "question": "Statement: The government increased the price of petrol.\nAssumption:\n1. It wants to reduce petrol consumption.\n2. It is trying to control inflation.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "A"
+  },
+  {
+    "question": "Statement: ‘Use of helmets is compulsory’ – a traffic department rule.\nAssumption:\n1. Helmets prevent serious injuries.\n2. People may not wear helmets without compulsion.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  },
+  {
+    "question": "Statement: Our roads are becoming dangerous due to rash driving.\nAssumption:\n1. Roads should be made safer.\n2. Laws should prevent rash driving.",
+    "options": ["A. Only 1 is implicit", "B. Only 2 is implicit", "C. Both are implicit", "D. Neither is implicit"],
+    "answer": "C"
+  }
+]

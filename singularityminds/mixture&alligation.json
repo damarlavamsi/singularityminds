@@ -1,0 +1,128 @@
+[
+  {
+    "question": "   A shopkeeper mixes 30 liters of milk with 10 liters of water. What is the ratio of milk to water in the mixture?",
+    "options": ["A.3:1", "B.1:3", "C.3:5", "D.2:5"],
+    "answer": "A"
+  },
+  {
+    "question": "  Two varieties of sugar costing ₹30/kg and ₹50/kg are mixed in the ratio 2:3. What is the price per kg of the mixture? ",
+    "options": ["A. ₹38", "B.₹40", "C.₹42", "D.₹36"],
+    "answer": "C"
+  },
+  {
+    "question": " A mixture contains 3 parts alcohol and 5 parts water. What is the percentage of alcohol in the mixture?  ",
+    "options": ["A.37.5%", "B. 25%", "C. 32.5%", "D. 42%"],
+    "answer": "A"
+  },
+  {
+    "question": " In what ratio should tea costing ₹150/kg be mixed with tea costing ₹200/kg to obtain a mixture worth ₹180/kg?  ",
+    "options": ["A.1:2", "B.3:2", "C.5:7", "D.1:4"],
+    "answer": "B"
+  },
+
+  {
+    "question": "A container has 60 liters of milk. 20 liters are removed and replaced with water. The process is repeated twice more. What is the final quantity of milk left?",
+    "options": ["A. 21.6 L", "B. 24.5 L", "C. 27.2 L", "D. 28.5 L"],
+    "answer": "A"
+  },
+  {
+    "question": "In what ratio must 25% acid solution be mixed with 60% acid solution to get a 40% solution?",
+    "options": ["A. 1:2", "B. 3:1", "C. 4:3", "D. 7:3"],
+    "answer": "B"
+  },
+  {
+    "question": "A mixture has alcohol and water in ratio 3:2. How much water should be added to 20 L to make the ratio 1:1?",
+    "options": ["A. 2 L", "B. 4 L", "C. 6 L", "D. 8 L"],
+    "answer": "D"
+  },
+  {
+    "question": "Two varieties of rice at ₹45/kg and ₹60/kg are mixed to get 20 kg at ₹54/kg. How much of the costlier rice was used?",
+    "options": ["A. 4 kg", "B. 8 kg", "C. 12 kg", "D. 16 kg"],
+    "answer": "C"
+  },
+  {
+    "question": "A 40 L solution contains milk and water in 7:1 ratio. How much water must be added to make the ratio 3:1?",
+    "options": ["A. 5 L", "B. 6 L", "C. 8 L", "D. 10 L"],
+    "answer": "C"
+  },
+  {
+    "question": "In a 60 L mixture, water and alcohol are in 1:2 ratio. How much of the mixture should be replaced with water to make the ratio 1:1?",
+    "options": ["A. 10 L", "B. 15 L", "C. 20 L", "D. 30 L"],
+    "answer": "C"
+  },
+  {
+    "question": "In what ratio should water be mixed with milk costing ₹18/L so that the mixture is sold at ₹18/L with a 25% profit?",
+    "options": ["A. 1:3", "B. 2:5", "C. 1:2", "D. 2:3"],
+    "answer": "A"
+  },
+  {
+    "question": "A mixture of 40 L has milk and water in 5:3 ratio. How much water should be added to make the new ratio 5:4?",
+    "options": ["A. 2.5 L", "B. 5 L", "C. 6 L", "D. 8 L"],
+    "answer": "B"
+  },
+  {
+    "question": "A dishonest milkman adds 20% water and still sells it at cost price. His gain percentage is:",
+    "options": ["A. 20%", "B. 25%", "C. 16.67%", "D. 33.33%"],
+    "answer": "C"
+  },
+  {
+    "question": "If a 240 g mixture contains A and B in 5:3 ratio, how much A must be added so that the new ratio is 3:1?",
+    "options": ["A. 40 g", "B. 60 g", "C. 80 g", "D. 100 g"],
+    "answer": "C"
+  },
+  {
+    "question": "  A container has 60 liters of a mixture, with 40% sugar. How much pure sugar should be added to make it 50% sugar? ",
+    "options": ["A.25 liters", "B.10 liters", "C.8 liters", "D.16 liters"],
+    "answer": "B"
+  },
+  {
+    "question":"   A trader mixes two types of rice priced at ₹20/kg and ₹30/kg in the ratio 3:7. What is the cost price per kg of the mixture?",
+    "options": ["A. ₹28", "B.₹20", "C.₹22", "D.₹26"],
+    "answer": "D"
+},
+    {
+        "question": "  A milk vendor has milk with 80% purity. How much water should be added to 40 liters of milk to reduce purity to 60%? ",
+        "options": ["A.15 liters", "B.10 liters", "C.8 liters", "D.20 liters"],
+        "answer": "A"
+    },
+    {
+        "question": "  A container has 100 liters of a mixture with milk and water in a 4:1 ratio. How much water should be added to make it a 3:2 ratio? ",
+        "options": ["A.10 liters", "B.13 liters", "C.28 liters", "D.20 liters"],
+        "answer": "D"
+    },
+    {
+    "question": "  A mixture has a ratio of copper to zinc = 5:3. What percentage of copper is in the mixture? ",
+        "options": ["A.37.5%", "B.62.5%", "C.42.5%", "D.53.6%"],
+        "answer": "B"
+    },
+    {
+
+        "question": " 30 liters of a 60% acid solution is mixed with 20 liters of 80% acid solution. What is the concentration of acid in the resulting mixture?  ",
+        "options": ["A.75%", "B.65%", "C.68%", "D.70%"],
+        "answer": "D"
+ },
+{
+        "question": "  Rice is sold at Rs. 450 per kg & Dal is sold at Rs. 510 per kg. In what ratio Rice & Dal should be mixed so that the mixture costs Rs. 475 per kg ?  ",
+        "options": ["A.7:5", "B.3:2", "C.5:7", "D.8:5"],
+        "answer": "A"
+
+
+},
+{
+    "question": " There are two qualities of Vimal Paan Masala, one is Kesar Wala Vimal, another one is Bina Kesar Wala Vimal, Bina Kesar Wala Vimal Costs Rs. 28.50 per Kg and Kesar wala Vimal Costs Rs. 34.50 per kg. This mixture is sold at Rs. 30.50. Find the ratio of two qualities of Vimal in the mixture.  ",
+        "options": ["A.2:1", "B.3:2", "C.1:2", "D.4:1"],
+        "answer": "A"
+    },
+    {
+    "question": " Mrs. Verma has two types of oil, these two types of oil having the rates Rs. 4 per kg and Rs. 5 per kg respectively are mixed in order to produce a mixture having the rate of Rs. 4.6 per kg. What should be the amount of the second type of oil if the amount of the first type of oil in the mixture is 40 Kg?  ",
+        "options": ["A.35 kg", "B.60 kg", "C.40 kg", "D.50 kg"],
+        "answer": "B"
+    },
+     {
+    "question": "  Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 a kg to produce a mixture worth Rs. 6.30 a kg. ",
+        "options": ["A.3:5", "B.5:4", "C.3:4", "D.2:3"],
+        "answer": "D"
+    }
+  
+
+]

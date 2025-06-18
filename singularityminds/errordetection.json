@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Each of the items / have been marked / with a unique code / No error",
+    "options": ["A. Each of the items", "B. have been marked", "C. with a unique code", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Neither the teacher / nor the students / was interested in the seminar / No error",
+    "options": ["A. Neither the teacher", "B. nor the students", "C. was interested in the seminar", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "Scarcely had he finished / the presentation / than the lights went out / No error",
+    "options": ["A. Scarcely had he finished", "B. the presentation", "C. than the lights went out", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "The quality of the cakes / have improved / over the past few months / No error",
+    "options": ["A. The quality of the cakes", "B. have improved", "C. over the past few months", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "He insisted / to help her / despite her refusal / No error",
+    "options": ["A. He insisted", "B. to help her", "C. despite her refusal", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "The manager, as well as his assistants, / were late / to the meeting / No error",
+    "options": ["A. The manager, as well as his assistants,", "B. were late", "C. to the meeting", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Not only the students / but also the teacher / need to be informed / No error",
+    "options": ["A. Not only the students", "B. but also the teacher", "C. need to be informed", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "The jury / was divided / in their opinion / No error",
+    "options": ["A. The jury", "B. was divided", "C. in their opinion", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "This is the man / whom I believe / is responsible for the error / No error",
+    "options": ["A. This is the man", "B. whom I believe", "C. is responsible for the error", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "If I was rich, / I would have donated / a large amount / No error",
+    "options": ["A. If I was rich", "B. I would have donated", "C. a large amount", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "No less than ten students / have qualified / for the scholarship / No error",
+    "options": ["A. No less than ten students", "B. have qualified", "C. for the scholarship", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "The book / comprises of / ten chapters on history / No error",
+    "options": ["A. The book", "B. comprises of", "C. ten chapters on history", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "She is one of the players / who has scored / the most goals this season / No error",
+    "options": ["A. She is one of the players", "B. who has scored", "C. the most goals this season", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "The thief confessed / that he broke into / the house yesterday / No error",
+    "options": ["A. The thief confessed", "B. that he broke into", "C. the house yesterday", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Neither of the answers / are correct / according to the marking scheme / No error",
+    "options": ["A. Neither of the answers", "B.No error ", "C. according to the marking scheme", "D. are correct"],
+    "answer": "D"
+  },
+  {
+    "question": "He denied / that he has stolen / the documents / No error",
+    "options": ["A. He denied", "B. that he has stolen", "C. the documents", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "More than one person / have applied / for the job position / No error",
+    "options": ["A.have applied ", "B.More than one person ", "C. for the job position", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "You must adapt / with changing circumstances / to succeed / No error",
+    "options": ["A. You must adapt", "B. with changing circumstances", "C. to succeed", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Neither of the boys / have completed / their homework on time / No error",
+    "options": ["A. Neither of the boys", "B. have completed", "C. their homework on time", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "He refrained / to comment / on the sensitive issue / No error",
+    "options": ["A. He refrained", "B. to comment", "C. on the sensitive issue", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "This kind of situations / require / careful handling / No error",
+    "options": ["A. This kind of situations", "B. require", "C. careful handling", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "Being a scientist, / the invention / surprised him greatly / No error",
+    "options": ["A. Being a scientist,", "B. the invention", "C. surprised him greatly", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "question": "Unless you do not arrive on time, / you will miss / the train / No error",
+    "options": ["A. Unless you do not arrive on time,", "B. you will miss", "C. the train", "D. No error"],
+    "answer": "A"
+  },
+  {
+    "question": "The audience / was clapping / their hands enthusiastically / No error",
+    "options": ["A. The audience", "B. was clapping", "C. their hands enthusiastically", "D. No error"],
+    "answer": "C"
+  },
+  {
+    "question": "Hardly he had / entered the room / when the lights went out / No error",
+    "options": ["A. Hardly he had", "B. entered the room", "C. when the lights went out", "D. No error"],
+    "answer": "A"
+  }
+]

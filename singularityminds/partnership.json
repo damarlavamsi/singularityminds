@@ -1,0 +1,77 @@
+[
+    {
+      "question": "A and B start a business with investments of ₹50,000 and ₹30,000, respectively. If the profit earned is ₹16,000, find A’s share of the profit.",
+      "options": ["A.₹8,000", "B.₹10,000", "C.₹12,000", "D.₹14,000"],
+      "answer": "B"
+    },
+    {
+      "question": "C invests ₹24,000 in a business while D invests ₹36,000. If the profit after a year is ₹30,000, find C’s share of the profit.",
+      "options": ["A.₹10,000", "B.₹12,000", "C.₹15,000", "D.₹18,000"],
+      "answer": "A"
+    },
+    {
+      "question": "X and Y invest in a partnership with capital contributions of ₹40,000 and ₹60,000, respectively. If the total profit is ₹50,000, find Y’s share.",
+      "options": ["A.₹20,000", "B.₹25,000", "C.₹30,000", "D.₹35,000"],
+      "answer": "C"
+    },
+    {
+      "question": "Two partners invest ₹25,000 and ₹35,000 in a business. If the profit earned is ₹18,000, find the ratio of their profit sharing.",
+      "options": ["A.5:7", "B.7:5", "C.2:3", "D.3:2"],
+      "answer": "A"
+    },
+    {
+      "question": "A, B, and C start a business with capitals of ₹30,000, ₹40,000, and ₹50,000, respectively. If the total profit is ₹24,000, find C’s share.",
+      "options": ["A.₹6,000", "B.₹8,000", "C.₹10,000", "D.₹12,000"],
+      "answer": "C"
+    },
+    {
+      "question": "A and B start a partnership business. A contributes ₹48,000 while B contributes ₹64,000. If the profit after one year is ₹28,000, find B’s share of the profit.",
+      "options": ["A.₹12,000", "B.₹14,000", "C.₹16,000", "D.₹18,000"],
+      "answer": "C"
+    },
+    {
+      "question": "X, Y, and Z invest ₹10,000, ₹15,000, and ₹25,000 respectively in a business. If the total profit is ₹20,000, find Y’s share.",
+      "options": ["A.₹4,000", "B.₹5,000", "C.₹6,000", "D.₹7,000"],
+      "answer": "B"
+    },
+    {
+      "question": "Two partners invest in a business in the ratio 3:5. If the profit earned is ₹24,000, find the share of the partner who invested the larger amount.",
+      "options": ["A.₹8,000", "B.₹10,000", "C.₹15,000", "D.₹18,000"],
+      "answer": "C"
+    },
+    {
+      "question": "A and B invest ₹20,000 and ₹40,000, respectively, in a business. If the profit after a year is ₹21,000, find the total amount received by A.",
+      "options": ["A.₹7,000", "B.₹14,000", "C.₹21,000", "D.₹28,000"],
+      "answer": "B"
+    },
+    {
+      "question": "P and Q invest in a business in the ratio of 2:3. If the total profit is ₹50,000, find P’s share.",
+      "options": ["A.₹20,000", "B.₹25,000", "C.₹30,000", "D.₹35,000"],
+      "answer": "A"
+    },
+    {
+      "question": "A starts a business by investing ₹30,000. After 6 months, B joins with ₹50,000. If the total profit at the end of the year is ₹36,000, find B’s share.",
+      "options": ["A.₹18,000", "B.₹21,000", "C.₹24,000", "D.₹27,000"],
+      "answer": "B"
+    },
+    {
+      "question": "C and D start a business. C invests ₹16,000, and D invests ₹24,000. After 8 months, D withdraws ₹6,000. If the profit after a year is ₹10,500, find C’s share.",
+      "options": ["A.₹4,200", "B.₹5,100", "C.₹6,300", "D.₹7,800"],
+      "answer": "A"
+    },
+    {
+      "question": "X invests ₹40,000 in a business. After 4 months, Y joins with ₹60,000. If the total profit after a year is ₹30,000, find X’s share.",
+      "options": ["A.₹12,000", "B.₹13,500", "C.₹15,000", "D.₹18,000"],
+      "answer": "A"
+    },
+    {
+      "question": "A, B, and C enter a partnership with investments of ₹50,000, ₹75,000, and ₹1,00,000, respectively. If the total profit is ₹45,000, find C’s share.",
+      "options": ["A.₹15,000", "B.₹18,000", "C.₹20,000", "D.₹25,000"],
+      "answer": "B"
+    },
+    {
+      "question": "In a business, P invests ₹12,000, Q invests ₹18,000, and R invests ₹24,000. After 6 months, R withdraws ₹4,000. If the total profit is ₹25,000, find Q’s share.",
+      "options": ["A.₹7,500", "B.₹8,000", "C.₹9,000", "D.₹10,000"],
+      "answer": "A"
+    }
+  ]

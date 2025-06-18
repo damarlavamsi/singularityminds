@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Processor : Computer :: Engine : ?",
+        "options": ["A. Car", "B. Fuel", "C. Transmission", "D. Wheels"],
+        "answer": "A"
+    },
+    {
+        "question": "RAM : Temporary :: Hard Drive : ?",
+        "options": ["A. Volatile", "B. Permanent", "C. Data", "D. Storage"],
+        "answer": "B"
+    },
+    {
+        "question": "Firewall : Security :: Compiler : ?",
+        "options": ["A. Code", "B. Execution", "C. Translation", "D. Debugging"],
+        "answer": "C"
+    },
+    {
+        "question": "HTML : Website :: SQL : ?",
+        "options": ["A. Programming", "B. Database", "C. Server", "D. Query"],
+        "answer": "B"
+    },
+    {
+        "question": "Neural Network : AI :: Transistor : ?",
+        "options": ["A. Electricity", "B. Computer", "C. Circuit", "D. Semiconductor"],
+        "answer": "D"
+    },
+    {
+        "question": "LAN : Local :: WAN : ?",
+        "options": ["A. Global", "B. Remote", "C. Wide", "D. Internet"],
+        "answer": "A"
+    },
+    {
+        "question": "Dijkstra’s Algorithm : Shortest Path :: Quick Sort : ?",
+        "options": ["A. Searching", "B. Sorting", "C. Encryption", "D. Compiling"],
+        "answer": "B"
+    },
+    {
+        "question": "Python : Programming :: MATLAB : ?",
+        "options": ["A. Coding", "B. Simulation", "C. Debugging", "D. Graphics"],
+        "answer": "B"
+    },
+    {
+        "question": "Capacitor : Charge Storage :: Resistor : ?",
+        "options": ["A. Voltage Regulation", "B. Current Limiting", "C. Heat Dissipation", "D. Resistance Control"],
+        "answer": "B"
+    },
+    {
+        "question": "SQL : Database :: HTTP : ?",
+        "options": ["A. Protocol", "B. Internet", "C. Server", "D. Web"],
+        "answer": "A"
+    },
+    {
+        "question": "Bit : Data :: Pixel : ?",
+        "options": ["A. Resolution", "B. Graphics", "C. Image", "D. Video"],
+        "answer": "C"
+    },
+    {
+        "question": "Capacitor : Energy Storage :: Transformer : ?",
+        "options": ["A. Voltage Conversion", "B. Power Distribution", "C. Current Supply", "D. Electrical Resistance"],
+        "answer": "A"
+    },
+    {
+        "question": "JavaScript : Frontend :: PHP : ?",
+        "options": ["A.Server", "B. Database", "C. API", "D. Backend"],
+        "answer": "D"
+    },
+    {
+        "question": "TCP : Reliable Transmission :: UDP : ?",
+        "options": ["A. Connectionless", "B. Secure", "C. Fast", "D. Streaming"],
+        "answer": "A"
+    },
+    {
+        "question": "CMOS : Low Power Consumption :: TTL : ?",
+        "options": ["A. High Speed", "B. High Power Consumption", "C. Large Size", "D. Low Efficiency"],
+        "answer": "B"
+    }
+]

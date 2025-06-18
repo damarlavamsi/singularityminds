@@ -1,0 +1,77 @@
+[
+    {
+        "question": "If ‘MANGO’ is coded as ‘NCJMT’, how is ‘APPLE’ coded?",
+        "options": ["A. BQQMF", "B. BQMRF", "C. BQMPF", "D. BQMMF"],
+        "answer": "A"
+    },
+    {
+        "question": "In a certain language, ‘GOLD’ is written as ‘HPME’, how is ‘SILVER’ written in that code?",
+        "options": ["A. TJKWFS", "B. TJMWGS", "C. TJMWFS", "D. TJKWGS"],
+        "answer": "C"
+    },
+    {
+        "question": "If ‘RAISE’ is coded as ‘SCKTG’, how will ‘LIGHT’ be coded?",
+        "options": ["A. MJHIU", "B. MJIKV", "C. MJIKG", "D. MJIKT"],
+        "answer": "D"
+    },
+    {
+        "question": "If in a code ‘POWER’ is written as ‘QPXFS’, how would ‘FORCE’ be written?",
+        "options": ["A. GQSDG", "B. GQSDH", "C. GRSDH", "D. GRSDG"],
+        "answer": "B"
+    },
+    {
+        "question": "If ‘TABLE’ is coded as ‘VCDNG’, how is ‘CHAIR’ coded?",
+        "options": ["A. EJCKT", "B. DJCKT", "C. DJDKT", "D. EJDKT"],
+        "answer": "A"
+    },
+    {
+        "question": "If ‘COMPUTER’ is written as ‘DQNVWFSJ’, how is ‘KEYBOARD’ written?",
+        "options": ["A. LFZCPEXE", "B. LFZCPDYE", "C. LFZCQDYE", "D. LFZCQDZE"],
+        "answer": "C"
+    },
+    {
+        "question": "If ‘GREEN’ is coded as ‘IQGGP’, how is ‘WHITE’ coded?",
+        "options": ["A. YJKVG", "B. XJKVG", "C. YIKVG", "D. YJLVG"],
+        "answer": "A"
+    },
+    {
+        "question": "In a language, ‘START’ is written as ‘UBCVX’, then how is ‘BEGIN’ written?",
+        "options": ["A. DGFLP", "B. CGFLP", "C. CGFMP", "D. DGFLQ"],
+        "answer": "B"
+    },
+    {
+        "question": "If ‘CUP’ is coded as ‘FWX’, how would ‘PLATE’ be coded?",
+        "options": ["A. SOEWG", "B. RNFWG", "C. RNEXG", "D. RNEXF"],
+        "answer": "C"
+    },
+    {
+        "question": "If ‘FISH’ is written as ‘HKUV’, how is ‘BIRD’ written?",
+        "options": ["A. DJSG", "B. DKTG", "C. DKSG", "D. DLUG"],
+        "answer": "C"
+    },
+    {
+        "question": "If ‘MOTHER’ is coded as ‘NQVJGT’, how is ‘FATHER’ coded?",
+        "options": ["A. GCVJGT", "B. GBVJGT", "C. GBVKGU", "D. GBVKGT"],
+        "answer": "B"
+    },
+    {
+        "question": "If ‘GARDEN’ is coded as ‘ICTFGP’, how is ‘FLOWER’ coded?",
+        "options": ["A. HNSWFS", "B. HNSXFS", "C. HNSXFR", "D. HNSWFR"],
+        "answer": "B"
+    },
+    {
+        "question": "If ‘BASKET’ is coded as ‘DCUMGV’, how would ‘APPLES’ be written?",
+        "options": ["A. CRNNGU", "B. DRNNGU", "C. DRNNUV", "D. CRNNUV"],
+        "answer": "A"
+    },
+    {
+        "question": "If ‘CANDLE’ is coded as ‘EDOPNG’, how would ‘LAMP’ be coded?",
+        "options": ["A. NDOR", "B. NDNQ", "C. NDQP", "D. NEOP"],
+        "answer": "C"
+    },
+    {
+        "question": "If ‘EAGLE’ is written as ‘FCIMF’, how would ‘CROW’ be coded?",
+        "options": ["A. DSQX", "B. DRPX", "C. DRQX", "D. DSQW"],
+        "answer": "C"
+    }
+]

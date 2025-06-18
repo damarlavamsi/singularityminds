@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Rearrange the following to form a coherent paragraph.",
+    "options": [
+      "A. They are an important part of the ecosystem.",
+      "B. Bees not only produce honey but also pollinate crops.",
+      "C. Without bees, food production would suffer significantly.",
+      "D. Hence, efforts to protect bee populations are crucial."
+    ],
+    "answer": "B A C D"
+  },
+  {
+    "question": "Rearrange the following to form a coherent paragraph.",
+    "options": [
+      "A. The first computers were huge and expensive.",
+      "B. Today, smartphones outperform them in many ways.",
+      "C. They could only perform basic tasks.",
+      "D. Technology has drastically advanced over the decades."
+    ],
+    "answer": "A C D B"
+  },
+  {
+    "question": "Rearrange the following to form a coherent paragraph.",
+    "options": [
+      "A. Many people struggle to prioritize their goals.",
+      "B. Time management is essential for success.",
+      "C. This often results in procrastination and stress.",
+      "D. Learning to organize your time is a valuable skill."
+    ],
+    "answer": "B A C D"
+  },
+  {
+    "question": "Rearrange the following to form a coherent paragraph.",
+    "options": [
+      "A. These books quickly gained a cult following.",
+      "B. The author self-published the first book.",
+      "C. Eventually, a major publisher picked up the series.",
+      "D. The story captured the imaginations of readers worldwide."
+    ],
+    "answer": "B A D C"
+  },
+  {
+    "question": "Rearrange the following to form a coherent paragraph.",
+    "options": [
+      "A. As a result, many people suffer serious complications.",
+      "B. Diabetes is a chronic illness affecting millions.",
+      "C. If untreated, it can damage the kidneys, eyes, and heart.",
+      "D. Early diagnosis and consistent treatment are vital."
+    ],
+    "answer": "B C A D"
+  }
+]

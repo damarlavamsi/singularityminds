@@ -1,0 +1,81 @@
+[
+    {
+        "question": "In a row of 50 students, John is 15th from the left. What is his position from the right?",
+        "options": ["A. 35th", "B. 36th", "C. 37th", "D. 38th"],
+        "answer": "B"
+    },
+    {
+        "question": "In a class of 60 students, Alice ranks 12th from the top. How many students rank below her?",
+        "statements": [
+            "1) The total number of students is known.",
+            "2) Alice's position from the top is given."
+        ],
+        "options": ["A. Statement 1 alone is sufficient", "B. Statement 2 alone is sufficient", "C. Both statements together are sufficient", "D. Neither statement is sufficient"],
+        "answer": "C"
+    },
+    {
+        "question": "In a line of competitors, Ben is ahead of Tom but behind Sam. Who ranks highest?",
+        "options": ["A. Tom", "B. Sam", "C. Ben", "D. Not determinable"],
+        "answer": "B"
+    },
+    {
+        "question": "A group of students is standing in height order. Emily is taller than Zoe but shorter than Sarah. Who is the shortest?",
+        "options": ["A. Sarah", "B. Emily", "C. Zoe", "D. Not determinable"],
+        "answer": "C"
+    },
+    {
+        "question": "In a queue of 40 people, Mike is 20th from the front. What is his position from the back?",
+        "options": ["A. 19th", "B. 20th", "C. 21st", "D. 22nd"],
+        "answer": "B"
+    },
+    {
+        "question": "Five people—P, Q, R, S, and T—are standing in a line. P is taller than Q, but shorter than R. S is the tallest. Who is second tallest?",
+        "options": ["A. P", "B. Q", "C. R", "D. S"],
+        "answer": "C"
+    },
+    {
+        "question": "Alex is ranked 8th in a 30-member coding competition. What is his rank from the bottom?",
+        "options": ["A. 22nd", "B. 23rd", "C. 24th", "D. 25th"],
+        "answer": "B"
+    },
+    {
+        "question": "A team is ranked in order based on performance. Robert ranks 5th, but there are 10 people ranked below him. How many people are in the team?",
+        "options": ["A. 14", "B. 15", "C. 16", "D. 17"],
+        "answer": "B"
+    },
+    {
+        "question": "A sequence is arranged from smallest to largest: 5, 12, 17, 25, 39. What is the median number?",
+        "options": ["A. 12", "B. 17", "C. 25", "D. 39"],
+        "answer": "B"
+    },
+    {
+        "question": "In a chess tournament, Julia ranks higher than David but lower than Mark. Who ranks lowest?",
+        "options": ["A. Julia", "B. Mark", "C. David", "D. Not determinable"],
+        "answer": "C"
+    },
+    {
+        "question": "A running race has 30 participants. Jack finishes 5th from the last. What is his overall rank?",
+        "options": ["A. 25th", "B. 26th", "C. 27th", "D. 28th"],
+        "answer": "B"
+    },
+    {
+        "question": "A math competition ranks students from highest to lowest score. Thomas is 12th, while Olivia is 4 ranks below him. What is Olivia's rank?",
+        "options": ["A. 16th", "B. 15th", "C. 14th", "D. 13th"],
+        "answer": "B"
+    },
+    {
+        "question": "A class test ranks students in order of scores. Matthew is ranked 1st, while Ryan is 3 places behind him. Who is ranked 2nd?",
+        "options": ["A. Ryan", "B. Matthew", "C. Not determinable", "D. Someone else"],
+        "answer": "D"
+    },
+    {
+        "question": "A group of athletes is lined up based on performance. If Kevin is ahead of Jake but behind Sarah, who ranks lowest?",
+        "options": ["A. Jake", "B. Kevin", "C. Sarah", "D. Not determinable"],
+        "answer": "A"
+    },
+    {
+        "question": "In a tech company, employees are ranked by experience. Lily has more experience than Josh but less than Hannah. Who has the most experience?",
+        "options": ["A. Lily", "B. Josh", "C. Hannah", "D. Not determinable"],
+        "answer": "C"
+    }
+]

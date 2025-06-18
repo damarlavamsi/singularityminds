@@ -1,0 +1,77 @@
+[
+    {
+        "question": "A water tank is cylindrical with a radius of 6 m and height of 15 m. How much water (in cubic meters) can it store?",
+        "options": ["A. 1696 m³", "B. 1700 m³", "C. 1695 m³", "D. 1702 m³"],
+        "answer": "A"
+    },
+    {
+        "question": "Find the volume of a truncated cone with radii 5 cm and 8 cm, and height of 12 cm.",
+        "options": ["A. 1700 cm³", "B. 1740 cm³", "C. 1800 cm³", "D. 1900 cm³"],
+        "answer": "B"
+    },
+    {
+        "question": "A metallic sphere of radius 8 cm is melted and recast into smaller spheres of radius 2 cm. How many smaller spheres can be made?",
+        "options": ["A. 64", "B. 128", "C. 256", "D. 512"],
+        "answer": "C"
+    },
+    {
+        "question": "Find the total surface area of a hollow cylinder with external radius 10 cm, internal radius 8 cm, and height 14 cm.",
+        "options": ["A. 1400 cm²", "B. 1480 cm²", "C. 1520 cm²", "D. 1600 cm²"],
+        "answer": "B"
+    },
+    {
+        "question": "A frustum of a pyramid has a lower base area of 200 cm² and upper base area of 80 cm². If the height is 25 cm, find its volume.",
+        "options": ["A. 3100 cm³", "B. 3200 cm³", "C. 3300 cm³", "D. 3400 cm³"],
+        "answer": "A"
+    },
+    {
+        "question": "A spherical tank with a diameter of 20 m is half-filled with liquid. Find the volume of the liquid inside.",
+        "options": ["A. 2090 m³", "B. 2100 m³", "C. 2115 m³", "D. 2130 m³"],
+        "answer": "C"
+    },
+    {
+        "question": "Find the surface area of a solid cone with base radius 12 cm and slant height 20 cm.",
+        "options": ["A. 1000 cm²", "B. 1050 cm²", "C. 1100 cm²", "D. 1150 cm²"],
+        "answer": "C"
+    },
+    {
+        "question": "A hemispherical bowl has a radius of 14 cm. Find its total surface area.",
+        "options": ["A. 980 cm²", "B. 1020 cm²", "C. 1070 cm²", "D. 1100 cm²"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the volume of a torus with inner radius 6 cm and outer radius 12 cm.",
+        "options": ["A. 6540 cm³", "B. 6600 cm³", "C. 6700 cm³", "D. 6800 cm³"],
+        "answer": "B"
+    },
+    {
+        "question": "A cylindrical pipe is 40 cm long and has inner and outer radii of 4 cm and 5 cm. Find its total volume.",
+        "options": ["A. 1800 cm³", "B. 1820 cm³", "C. 1850 cm³", "D. 1900 cm³"],
+        "answer": "A"
+    },
+    {
+        "question": "A pyramid has a square base of 15 cm sides and a height of 30 cm. Find its volume.",
+        "options": ["A. 2250 cm³", "B. 2275 cm³", "C. 2300 cm³", "D. 2350 cm³"],
+        "answer": "A"
+    },
+    {
+        "question": "Find the lateral surface area of a frustrum of a cone with base radii of 7 cm and 14 cm, and height of 21 cm.",
+        "options": ["A. 890 cm²", "B. 910 cm²", "C. 950 cm²", "D. 990 cm²"],
+        "answer": "B"
+    },
+    {
+        "question": "A composite object consists of a cube (side length 10 cm) and a hemisphere on top. Find its total surface area.",
+        "options": ["A. 700 cm²", "B. 730 cm²", "C. 750 cm²", "D. 780 cm²"],
+        "answer": "C"
+    },
+    {
+        "question": "Find the volume of an elliptical cylinder with major axis 8 cm, minor axis 5 cm, and height 10 cm.",
+        "options": ["A. 3125 cm³", "B. 3150 cm³", "C. 3180 cm³", "D. 3200 cm³"],
+        "answer": "D"
+    },
+    {
+        "question": "A conical tank with radius 6 m and height 12 m is half-filled with liquid. Find the volume of the liquid inside.",
+        "options": ["A. 453.6 m³", "B. 460.0 m³", "C. 468.2 m³", "D. 475.8 m³"],
+        "answer": "A"
+    }
+]

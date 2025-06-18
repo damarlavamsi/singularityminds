@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>All Quizzes</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* Your existing styles */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Choose a Quiz</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="aptitude.html">Aptitude</a>
+      <a href="logicalreasoning.html">Logical Reasoning</a>
+      <a href="verbalability.html">Verbal Ability</a>
+    </nav>
+  </header>
+
+  <main>
+    <label for="topic-select">Select a topic:</label>
+    <select id="topic-select">
+      <option value="">--Select--</option>
+      <option value="arithmetic.json">Arithmetic</option>
+      <option value="percentages.json">Percentages</option>
+      <option value="ratios.json">Ratios</option>
+      <!-- Add all your 17 topics here -->
+    </select>
+
+    <div id="quiz-container"></div>
+
+    <div class="pagination" id="pagination"></div>
+  </main>
+
+  <footer>
+    <p style="color:red; text-align:center;"> &copy; Designed By : Damarla Vamsi</p>
+  </footer>
+
+  <script src="quiz.js"></script>
+  <script>
+    const select = document.getElementById('topic-select');
+    const quizContainer = document.getElementById('quiz-container');
+
+    select.addEventListener('change', () => {
+      const topicFile = select.value;
+      if (!topicFile) {
+        quizContainer.innerHTML = '';
+        return;
+      }
+      loadQuiz(topicFile);
+    });
+
+    // This function will be defined inside quiz.js and will handle loading and rendering questions
+    function loadQuiz(topicFile) {
+      // quiz.js function that fetches JSON and renders questions
+      // This function needs to be implemented in your quiz.js file
+      window.loadQuizByFile(topicFile);
+    }
+  </script>
+</body>
+</html>

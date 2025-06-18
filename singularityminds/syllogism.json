@@ -1,0 +1,77 @@
+[
+    {
+        "question": "All engineers are problem-solvers. Some problem-solvers are mathematicians.",
+        "options": ["A. Some engineers are mathematicians", "B. All mathematicians are engineers", "C. Some mathematicians are problem-solvers", "D. All engineers are mathematicians"],
+        "answer": "C"
+    },
+    {
+        "question": "No AI system is human. All intelligent beings are AI systems.",
+        "options": ["A. Some humans are intelligent", "B. No intelligent being is human", "C. All AI systems are intelligent", "D. Some AI systems are human"],
+        "answer": "B"
+    },
+    {
+        "question": "All software developers know coding. Some coders are ethical hackers.",
+        "options": ["A. All ethical hackers are software developers", "B. Some ethical hackers know coding", "C. No ethical hacker is a software developer", "D. Some coders do not know coding"],
+        "answer": "B"
+    },
+    {
+        "question": "All quantum computers are futuristic. Some futuristic technologies are powerful.",
+        "options": ["A. Some quantum computers are powerful", "B. All powerful technologies are futuristic", "C. Some futuristic technologies are quantum computers", "D. All quantum computers are powerful"],
+        "answer": "C"
+    },
+    {
+        "question": "No hacker is trustworthy. All cybersecurity experts are trustworthy.",
+        "options": ["A. No cybersecurity expert is a hacker", "B. Some hackers are cybersecurity experts", "C. No cybersecurity expert is trustworthy", "D. All hackers are cybersecurity experts"],
+        "answer": "A"
+    },
+    {
+        "question": "All robots are programmed devices. Some programmed devices are autonomous.",
+        "options": ["A. Some robots are autonomous", "B. No autonomous device is a robot", "C. All autonomous devices are programmed", "D. Some programmed devices are robots"],
+        "answer": "D"
+    },
+    {
+        "question": "Some engineers are researchers. No researcher is careless.",
+        "options": ["A. Some engineers are careless", "B. All engineers are researchers", "C. Some engineers are not careless", "D. No engineers are researchers"],
+        "answer": "C"
+    },
+    {
+        "question": "All CPUs are processors. Some processors are GPUs.",
+        "options": ["A. All GPUs are CPUs", "B. Some GPUs are processors", "C. Some processors are CPUs", "D. No GPU is a processor"],
+        "answer": "B"
+    },
+    {
+        "question": "No virus is beneficial. Some software programs are viruses.",
+        "options": ["A. Some software programs are not beneficial", "B. All viruses are software programs", "C. Some viruses are beneficial", "D. No software program is a virus"],
+        "answer": "A"
+    },
+    {
+        "question": "Some algorithms are fast. All fast algorithms are efficient.",
+        "options": ["A. Some efficient algorithms are fast", "B. All algorithms are efficient", "C. No fast algorithm is efficient", "D. All efficient algorithms are fast"],
+        "answer": "A"
+    },
+    {
+        "question": "Some databases are encrypted. All encrypted systems are secure.",
+        "options": ["A. Some secure systems are databases", "B. All secure databases are encrypted", "C. Some encrypted databases are secure", "D. No secure system is a database"],
+        "answer": "C"
+    },
+    {
+        "question": "All programmers use computers. Some computer users are gamers.",
+        "options": ["A. All gamers are programmers", "B. Some programmers are gamers", "C. Some gamers use computers", "D. No programmer is a gamer"],
+        "answer": "C"
+    },
+    {
+        "question": "No bug-free software is outdated. Some outdated software is useful.",
+        "options": ["A. Some useful software is outdated", "B. No outdated software is bug-free", "C. Some outdated software is bug-free", "D. No useful software is bug-free"],
+        "answer": "B"
+    },
+    {
+        "question": "All AI researchers study machine learning. Some machine learning experts work on robotics.",
+        "options": ["A. Some robotics experts are AI researchers", "B. Some AI researchers work on robotics", "C. All robotics experts study machine learning", "D. No AI researcher is a robotics expert"],
+        "answer": "B"
+    },
+    {
+        "question": "All cloud servers store data. Some data storage devices are external hard drives.",
+        "options": ["A. Some cloud servers are external hard drives", "B. Some external hard drives store data", "C. All external hard drives are cloud servers", "D. No external hard drive stores data"],
+        "answer": "B"
+    }
+]

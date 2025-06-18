@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Although the movie received mixed reviews, it broke box office records in its first week.",
+    "options": ["A. Only critically acclaimed movies succeed", "B. All moviegoers read reviews", "C. Positive reviews guarantee box office success", "D. A movie can be commercially successful despite mixed reviews"],
+    "answer": "D"
+  },
+  {
+    "question": "People living in colder climates consume more calories during winter months.",
+    "options": ["A. Calorie intake decreases with temperature", "B. Warm climates suppress appetite", "C. The body needs more energy in cold weather", "D. Cold weather reduces metabolism"],
+    "answer": "C"
+  },
+  {
+    "question": "Most employees chose the online workshop over the in-person seminar.",
+    "options": ["A. Employees dislike workshops", "B. The seminar was poorly organized", "C. Online options were more popular", "D. Workshops are mandatory for all employees"],
+    "answer": "C"
+  },
+  {
+    "question": "After the storm, many trees were uprooted and traffic lights stopped working.",
+    "options": ["A. The storm had little effect on infrastructure", "B. The storm disrupted both transportation and nature", "C. Traffic lights are never storm-proof", "D. Only the trees suffered damage"],
+    "answer": "B"
+  },
+  {
+    "question": "The bakery sold out of croissants every morning before 10 AM.",
+    "options": ["A. Customers dislike croissants", "B. The bakery overproduces baked goods", "C. Croissants are not popular", "D. Croissants are in high demand"],
+    "answer": "D"
+  },
+  {
+    "question": "He forgot his umbrella, yet returned home dry.",
+    "options": ["A. It must not have rained", "B. Umbrellas are unnecessary", "C. He used someone else's umbrella", "D. It was raining heavily"],
+    "answer": "A"
+  },
+  {
+    "question": "Despite lacking formal training, the artist's work was praised for its originality.",
+    "options": ["A. Formal training guarantees originality", "B. The artist copied someone else's work", "C. Originality does not require formal education", "D. Critics dislike trained artists"],
+    "answer": "C"
+  },
+  {
+    "question": "Since the new speed limit was introduced, road accidents decreased by 30%.",
+    "options": ["A. Speed limits increase accidents", "B. Lowering speed limits may reduce accidents", "C. Accidents are unavoidable", "D. Speed limits confuse drivers"],
+    "answer": "B"
+  },
+  {
+    "question": "The gym membership rates dropped, and enrollment increased substantially.",
+    "options": ["A. Lower prices discouraged new members", "B. The gym was closing down", "C. Price reduction attracted more people", "D. Enrollments fell due to high costs"],
+    "answer": "C"
+  },
+  {
+    "question": "After months of drought, the fields finally turned green.",
+    "options": ["A. Drought continued for years", "B. Rain likely followed the drought", "C. The fields were painted green", "D. Drought improves agriculture"],
+    "answer": "B"
+  },
+  {
+    "question": "The team lost all its matches but gained popularity among fans.",
+    "options": ["A. Winning is essential for popularity", "B. Fans dislike underdogs", "C. A team can be liked despite poor performance", "D. Popular teams always win"],
+    "answer": "C"
+  },
+  {
+    "question": "The museum extended its hours to accommodate more visitors.",
+    "options": ["A. Fewer visitors were attending", "B. Most visitors dislike museums", "C. Demand for the museum increased", "D. Museums operate better with shorter hours"],
+    "answer": "C"
+  },
+  {
+    "question": "Though the restaurant was hidden in a narrow alley, it was fully booked every night.",
+    "options": ["A. Location does not always affect popularity", "B. People avoid hidden places", "C. Narrow alleys are unsafe", "D. Bookings are automatic"],
+    "answer": "A"
+  },
+  {
+    "question": "He studied intensively for months but did not pass the exam.",
+    "options": ["A. Hard work guarantees success", "B. Exams test luck, not skill", "C. There may be factors beyond preparation", "D. He ignored studying completely"],
+    "answer": "C"
+  },
+  {
+    "question": "Although the stadium was large, only a few spectators attended the match.",
+    "options": ["A. Stadium size determines attendance", "B. A larger stadium means lower attendance", "C. Other factors affect crowd size", "D. Spectators dislike modern venues"],
+    "answer": "C"
+  },
+  {
+    "question": "Even after the launch of the new phone model, the older version remained in high demand.",
+    "options": ["A. New models always fail", "B. Older phones lack features", "C. Consumers still value older models", "D. The new model is cheaper"],
+    "answer": "C"
+  },
+  {
+    "question": "Despite limited advertising, the book became a bestseller.",
+    "options": ["A. Advertising is unnecessary", "B. The book succeeded through other means", "C. Books can't sell without ads", "D. Advertising caused poor sales"],
+    "answer": "B"
+  },
+  {
+    "question": "By the time she arrived, the lecture had already begun.",
+    "options": ["A. She was late", "B. She arrived early", "C. The lecture was delayed", "D. She skipped the lecture"],
+    "answer": "A"
+  },
+  {
+    "question": "The project exceeded its budget despite thorough planning.",
+    "options": ["A. Plans always fail", "B. Planning ensures budget cuts", "C. Unexpected costs can arise", "D. Projects never follow budgets"],
+    "answer": "C"
+  },
+  {
+    "question": "During the interview, he hesitated before answering every question.",
+    "options": ["A. He lacked confidence", "B. He was unqualified", "C. He dominated the panel", "D. He had prepared well"],
+    "answer": "A"
+  },
+  {
+    "question": "The actor retired at the peak of his career.",
+    "options": ["A. He failed to gain recognition", "B. He was struggling professionally", "C. He left at a successful moment", "D. He was never popular"],
+    "answer": "C"
+  },
+  {
+    "question": "Even with a map, they lost their way in the forest.",
+    "options": ["A. Maps are useless", "B. The forest was difficult to navigate", "C. They followed the map perfectly", "D. They never had a map"],
+    "answer": "B"
+  },
+  {
+    "question": "The old bridge was closed after engineers found cracks in its base.",
+    "options": ["A. Cracks made the bridge unsafe", "B. Engineers ignore safety", "C. Cracks are common but not serious", "D. No inspection happened"],
+    "answer": "A"
+  },
+  {
+    "question": "Although she ran faster than ever, she didn’t qualify for the finals.",
+    "options": ["A. She finished first", "B. Her performance was poor", "C. Personal bests don’t always meet standards", "D. She won the race"],
+    "answer": "C"
+  },
+  {
+    "question": "Lack of rainfall led to a significant drop in crop yield.",
+    "options": ["A. Rainfall increases crop failure", "B. Crops grow without water", "C. Rainfall is essential for crops", "D. Too much rain ruined harvests"],
+    "answer": "C"
+  }
+]

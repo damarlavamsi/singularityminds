@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Two opposite faces of a cube show numbers 1 and 6. The adjacent faces show 2, 3, and 5. Which number is opposite to 2?",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "C"
+  },
+  {
+    "question": "If a cube has its surfaces colored in six different colors and is cut into 64 smaller cubes, how many of those will have exactly 3 colored faces?",
+    "options": ["A. 4", "B. 6", "C. 8", "D. 12"],
+    "answer": "C"
+  },
+  {
+    "question": "A cube has numbers 1 to 6. Two adjacent faces show 1 and 3. Can 1 and 6 be adjacent?",
+    "options": ["A. Yes", "B. No", "C. Depends on rotation", "D. Not determinable"],
+    "answer": "B"
+  },
+  {
+    "question": "Three different positions of a cube show these faces: 3, 2, 5; then 2, 6, 3; then 6, 1, 2. Which number is opposite 5?",
+    "options": ["A. 6", "B. 1", "C. 2", "D. 3"],
+    "answer": "B"
+  },
+  {
+    "question": "If the faces of a cube are numbered such that sum of numbers on opposite faces is always 7, which pair is NOT possible?",
+    "options": ["A. 1 & 6", "B. 2 & 5", "C. 3 & 4", "D. 2 & 6"],
+    "answer": "D"
+  },
+  {
+    "question": "A cube is painted on all sides and cut into 27 small cubes. How many cubes will have only one face painted?",
+    "options": ["A. 6", "B. 8", "C. 12", "D. 6"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following cannot be the net of a cube?",
+    "options": ["A. Cross shape", "B. T-shape", "C. Z-shape", "D. L-shape"],
+    "answer": "D"
+  },
+  {
+    "question": "If opposite faces of a cube are painted the same color, and the cube is cut into 64 small cubes, how many have no painted face?",
+    "options": ["A. 0", "B. 8", "C. 27", "D. 36"],
+    "answer": "B"
+  },
+  {
+    "question": "Three views of a cube show @, #, &, %, *, $. If % is opposite to @, and # is adjacent to *, then what is opposite to &?",
+    "options": ["A. $", "B. #", "C. *", "D. Cannot be determined"],
+    "answer": "A"
+  },
+  {
+    "question": "How many corners does a cube have?",
+    "options": ["A. 6", "B. 8", "C. 12", "D. 4"],
+    "answer": "B"
+  },
+  {
+    "question": "In a cube, if 4 faces meet at a point, how many such points does the cube have?",
+    "options": ["A. 8", "B. 6", "C. 4", "D. 2"],
+    "answer": "A"
+  },
+  {
+    "question": "A cube is rolled four times to the left. How many faces have definitely changed positions?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "C"
+  },
+  {
+    "question": "If a cube has three faces showing X, Y, Z in clockwise order, and it is rotated to the right, which symbol comes to the top?",
+    "options": ["A. X", "B. Y", "C. Z", "D. Cannot be determined"],
+    "answer": "A"
+  },
+  {
+    "question": "The cube has its bottom face with no color. When rotated without lifting, will the bottom face ever be visible?",
+    "options": ["A. Yes", "B. No", "C. Only after flipping", "D. Cannot say"],
+    "answer": "B"
+  },
+  {
+    "question": "A cube is painted blue on all faces and sliced into 216 equal cubes. How many cubes will have 2 faces painted?",
+    "options": ["A. 72", "B. 36", "C. 96", "D. 60"],
+    "answer": "A"
+  }
+]

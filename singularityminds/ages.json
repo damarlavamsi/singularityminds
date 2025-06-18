@@ -1,0 +1,87 @@
+[
+    {
+      "question": "A father is twice as old as his son. If the father is 40 years old, how old is the son?",
+      "options": ["A.10 years", "B.20 years", "C.30 years", "D.25 years"],
+      "answer": "B"
+    },
+    {
+      "question": "A brother is 4 years older than his sister. If the sister is 16 years old, what is the brother's age?",
+      "options": ["A.18 years", "B.20 years", "C.22 years", "D.24 years"],
+      "answer": "B"
+    },
+    {
+      "question": "The present age of a mother and daughter are in the ratio 5:2. If the mother is 40 years old, how old is the daughter?",
+      "options": ["A.12 years", "B.14 years", "C.16 years", "D.18 years"],
+      "answer": "C"
+    },
+    {
+      "question": "A grandfather is 7 times older than his grandson. If the grandson is 8 years old, how old is the grandfather?",
+      "options": ["A.56 years", "B.60 years", "C.64 years", "D.72 years"],
+      "answer": "A"
+    },
+    {
+      "question": "The sum of the ages of a father and son is 50 years. If the father is three times older than his son, find the son's age.",
+      "options": ["A.10 years", "B.12 years", "C.15 years", "D.18 years"],
+      "answer": "A"
+    },
+    {
+      "question": "A person is 5 years older than his wife, and the sum of their ages is 55 years. Find the wife's age.",
+      "options": ["A.25 years", "B.27 years", "C.30 years", "D.35 years"],
+      "answer": "C"
+    },
+    {
+      "question": "A father’s age is 3 times his son’s age. If the father will be 48 years old in 6 years, how old is the son now?",
+      "options": ["A.10 years", "B.12 years", "C.14 years", "D.16 years"],
+      "answer": "B"
+    },
+    {
+      "question": "A brother was twice the age of his sister 5 years ago. If the sister is now 15 years old, how old is the brother?",
+      "options": ["A.25 years", "B.30 years", "C.35 years", "D.40 years"],
+      "answer": "A"
+    },
+    {
+      "question": "A father’s age is three times his son’s age today. In 5 years, the father’s age will be twice his son’s age. How old is the father now?",
+      "options": ["A.30 years", "B.35 years", "C.40 years", "D.45 years"],
+      "answer": "C"
+    },
+    {
+      "question": "The sum of the ages of two friends is 32 years. If one friend is twice as old as the other, what is the younger friend’s age?",
+      "options": ["A.10 years", "B.12 years", "C.14 years", "D.16 years"],
+      "answer": "B"
+    },
+    {
+      "question": "A father's age is five times his son's age today. In 10 years, his age will be three times his son's age. Find the father's current age.",
+      "options": ["A.40 years", "B.45 years", "C.50 years", "D.55 years"],
+      "answer": "C"
+    },
+    {
+      "question": "A mother was three times the age of her daughter 8 years ago. If the mother is now 40 years old, how old is the daughter?",
+      "options": ["A.14 years", "B.16 years", "C.18 years", "D.20 years"],
+      "answer": "B"
+    },
+    {
+      "question": "The difference between the ages of a teacher and a student is 30 years. If the teacher’s age is 4 times the student’s age, how old is the student?",
+      "options": ["A.10 years", "B.12 years", "C.15 years", "D.20 years"],
+      "answer": "A"
+    },
+    {
+      "question": "A father tells his son, “I was twice your age 10 years ago.” If the son is 20 years old now, how old is the father?",
+      "options": ["A.40 years", "B.45 years", "C.50 years", "D.55 years"],
+      "answer": "C"
+    },
+    {
+      "question": "A grandfather and grandson have a combined age of 80 years. If the grandfather’s age is four times his grandson’s age, find the grandson’s age.",
+      "options": ["A.16 years", "B.18 years", "C.20 years", "D.22 years"],
+      "answer": "C"
+    },
+    {
+      "question": "A father’s age is 6 times his son’s age today. In 8 years, his age will be three times his son's age. Find the father’s current age.",
+      "options": ["A.36 years", "B.42 years", "C.48 years", "D.54 years"],
+      "answer": "C"
+    },
+    {
+      "question": "A man says, “I was twice my son’s age 10 years ago, and now my age is thrice his age.” Find the father’s current age.",
+      "options": ["A.60 years", "B.55 years","A.36 years", "B.42 years"],
+      "answer":"A"
+    }
+]

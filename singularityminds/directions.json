@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Arjun walks 20 m north, then 30 m east, then 20 m south, then 30 m west. Where is he now from the starting point?",
+    "options": ["A. At starting point", "B. 10 m North", "C. 10 m East", "D. 10 m South"],
+    "answer": "A"
+  },
+  {
+    "question": "Mira is facing east. She turns 90° clockwise, 180° anti-clockwise, then 90° clockwise. Which direction is she facing now?",
+    "options": ["A. North", "B. South", "C. East", "D. West"],
+    "answer": "A"
+  },
+  {
+    "question": "Ravi walks 30 m west, turns right and walks 20 m, then right again for 30 m. Which direction is he facing now?",
+    "options": ["A. West", "B. South", "C. East", "D. North"],
+    "answer": "D"
+  },
+  {
+    "question": "Shweta walks 10 m north, then 10 m west, then 10 m south. What direction is she from her starting point?",
+    "options": ["A. East", "B. West", "C. North", "D. South"],
+    "answer": "B"
+  },
+  {
+    "question": "If a boy faces south and turns left, then left again, and then right, which direction is he now facing?",
+    "options": ["A. East", "B. North", "C. West", "D. South"],
+    "answer": "A"
+  },
+  {
+    "question": "Mohan walks 5 m north, 5 m east, 5 m south, and 5 m west. Where is he now?",
+    "options": ["A. At start point", "B. 5 m North", "C. 5 m East", "D. 10 m West"],
+    "answer": "A"
+  },
+  {
+    "question": "If a person walks 10 m north, turns right, walks 10 m, then turns left and walks 5 m, where is he now?",
+    "options": ["A. 10 m East", "B. 15 m East", "C. 10 m North", "D. 5 m South-East"],
+    "answer": "B"
+  },
+  {
+    "question": "Riya is facing South. She turns 270° anticlockwise. Which direction is she facing now?",
+    "options": ["A. North", "B. East", "C. West", "D. South"],
+    "answer": "A"
+  },
+  {
+    "question": "Vikram walks 50 m east, turns left, walks 20 m, then left again and walks 50 m. Which direction is he facing now?",
+    "options": ["A. South", "B. East", "C. North", "D. West"],
+    "answer": "D"
+  },
+  {
+    "question": "Seema goes 40 m north, then 30 m east, then 30 m south. How far is she from the starting point?",
+    "options": ["A. 10 m", "B. 20 m", "C. 30 m", "D. 50 m"],
+    "answer": "D"
+  },
+  {
+    "question": "A man walks 10 m north, 10 m east, 10 m south, 10 m west, and finally 10 m north. Where is he now?",
+    "options": ["A. At start point", "B. 10 m North", "C. 20 m North", "D. 10 m East"],
+    "answer": "B"
+  },
+  {
+    "question": "If Priya is facing west and turns 135° clockwise, which direction is she facing now?",
+    "options": ["A. Southeast", "B. South", "C. Southwest", "D. North"],
+    "answer": "A"
+  },
+  {
+    "question": "Man walks 10 m east, turns left, 15 m, turns right, 20 m. What direction is he facing now?",
+    "options": ["A. North", "B. East", "C. West", "D. South"],
+    "answer": "D"
+  },
+  {
+    "question": "Kunal turns left from facing north, then right, then again right. What direction is he facing now?",
+    "options": ["A. East", "B. South", "C. West", "D. North"],
+    "answer": "B"
+  },
+  {
+    "question": "Ananya walks 12 m north, 5 m east, 12 m south, 5 m west. How far is she from the start?",
+    "options": ["A. 0 m", "B. 12 m", "C. 10 m", "D. 5 m"],
+    "answer": "A"
+  }
+]

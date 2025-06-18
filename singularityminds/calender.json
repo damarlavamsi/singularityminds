@@ -1,0 +1,77 @@
+[
+    {
+        "question": "If January 1, 2020, was a Wednesday, what day was January 1, 2021?",
+        "options": ["A. Monday", "B. Tuesday", "C. Wednesday", "D. Friday"],
+        "answer": "D"
+    },
+    {
+        "question": "A person was born on February 29, 2000. In what year will they celebrate their 5th actual birthday?",
+        "options": ["A. 2005", "B. 2016", "C. 2020", "D. 2024"],
+        "answer": "C"
+    },
+    {
+        "question": "Today is Monday. What will be the day of the week after 50 days?",
+        "options": ["A. Friday", "B. Saturday", "C. Sunday", "D. Monday"],
+        "answer": "D"
+    },
+    {
+        "question": "How many leap years are there between 2000 and 2024 (including both years)?",
+        "options": ["A. 6", "B. 7", "C. 5", "D. 8"],
+        "answer": "B"
+    },
+    {
+        "question": "If April 15, 2023, is a Saturday, what day of the week will April 15, 2024, be?",
+        "options": ["A. Sunday", "B. Monday", "C. Tuesday", "D. Wednesday"],
+        "answer": "B"
+    },
+    {
+        "question": "A 30-day month starts on a Wednesday. What day will the last day of the month fall on?",
+        "options": ["A. Friday", "B. Saturday", "C. Sunday", "D. Monday"],
+        "answer": "A"
+    },
+    {
+        "question": "If October 4, 2022, was a Tuesday, what day will October 4, 2027, be?",
+        "options": ["A. Friday", "B. Sunday", "C. Monday", "D. Tuesday"],
+        "answer": "C"
+    },
+    {
+        "question": "How many Sundays are there in February 2028?",
+        "options": ["A. 4", "B. 5", "C. 3", "D. 2"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the number of odd days in 200 years.",
+        "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the first day of the 21st century (January 1, 2001)?",
+        "options": ["A. Monday", "B. Tuesday", "C. Wednesday", "D. Thursday"],
+        "answer": "A"
+    },
+    {
+        "question": "Find the 1000th day from January 1, 2023.",
+        "options": ["A. Monday", "B. Tuesday", "C. Wednesday", "D. Friday"],
+        "answer": "B"
+    },
+    {
+        "question": "How many days are between March 15, 2025, and May 10, 2025?",
+        "options": ["A. 56", "B. 57", "C. 58", "D. 59"],
+        "answer": "B"
+    },
+    {
+        "question": "Find the missing date: If February 1, 2029, is a Thursday, what is February 1, 2032?",
+        "options": ["A. Friday", "B. Saturday", "C. Sunday", "D. Monday"],
+        "answer": "C"
+    },
+    {
+        "question": "A year starts and ends on the same day. Which of the following years could it be?",
+        "options": ["A. 2010", "B. 2015", "C. 2023", "D. 2029"],
+        "answer": "D"
+    },
+    {
+        "question": "How many odd days are there in 500 years?",
+        "options": ["A. 0", "B. 1", "C. 2", "D. 3"],
+        "answer": "A"
+    }
+]

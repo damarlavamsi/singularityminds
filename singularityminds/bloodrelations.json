@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Pointing to a man, Raj says, 'He is the only son of my father's father.' How is the man related to Raj?",
+        "options": ["A. Brother", "B. Father", "C. Uncle", "D. Grandfather"],
+        "answer": "B"
+    },
+    {
+        "question": "Introducing a woman, Rohit says, 'She is the daughter of my mother's only sister.' How is the woman related to Rohit?",
+        "options": ["A. Sister", "B. Cousin", "C. Niece", "D. Aunt"],
+        "answer": "B"
+    },
+    {
+        "question": "Pointing to a girl, Amit says, 'Her mother's father is my father's father.' How is Amit related to the girl?",
+        "options": ["A. Brother", "B. Uncle", "C. Cousin", "D. Grandfather"],
+        "answer": "B"
+    },
+    {
+        "question": "A man points to a woman and says, 'She is the wife of my son's father.' How is the woman related to the man?",
+        "options": ["A. Wife", "B. Sister", "C. Mother", "D. Daughter-in-law"],
+        "answer": "A"
+    },
+    {
+        "question": "If X is the brother of Y, Y is the brother of Z, and Z is the son of P, then which of the following is true?",
+        "options": ["A. P is the father of X", "B. Z is the uncle of X", "C. Y is the father of P", "D. P is the grandfather of Y"],
+        "answer": "A"
+    },
+    {
+        "question": "Pointing to a person, Ravi says, 'He is the father of my granddaughter’s mother.' How is the person related to Ravi?",
+        "options": ["A. Son", "B. Father", "C. Son-in-law", "D. Brother-in-law"],
+        "answer": "C"
+    },
+    {
+        "question": "Rahul’s father has a brother, whose daughter is Simran. How is Simran related to Rahul?",
+        "options": ["A. Aunt", "B. Cousin", "C. Sister", "D. Niece"],
+        "answer": "B"
+    },
+    {
+        "question": "Pointing to a boy, Aditi says, 'His father is the only son of my father.' How is Aditi related to the boy?",
+        "options": ["A. Mother", "B. Sister", "C. Aunt", "D. Grandmother"],
+        "answer": "A"
+    },
+    {
+        "question": "If P is the sister of Q, Q is the son of R, and R is the wife of S, then how is P related to S?",
+        "options": ["A. Daughter", "B. Wife", "C. Sister", "D. Mother"],
+        "answer": "A"
+    },
+    {
+        "question": "A man says, 'My son’s grandfather is the father of your brother.' How is the man related to the other person?",
+        "options": ["A. Brother", "B. Uncle", "C. Father", "D. Grandfather"],
+        "answer": "C"
+    },
+    {
+        "question": "Pointing to a woman, Ramesh says, 'She is my grandmother's only son’s daughter.' How is the woman related to Ramesh?",
+        "options": ["A. Sister", "B. Cousin", "C. Aunt", "D. Niece"],
+        "answer": "A"
+    },
+    {
+        "question": "If A is the sister of B, B is the mother of C, and C is the daughter of D, then how is D related to A?",
+        "options": ["A. Brother", "B. Father", "C. Husband", "D. Uncle"],
+        "answer": "C"
+    },
+    {
+        "question": "A girl introduces a man as 'My mother’s brother’s only son.' How is the man related to the girl?",
+        "options": ["A. Cousin", "B. Brother", "C. Nephew", "D. Uncle"],
+        "answer": "B"
+    },
+    {
+        "question": "Pointing to a photograph, a man says, 'This man’s mother is the only daughter of my mother.' How is the person in the photograph related to the man?",
+        "options": ["A. Son", "B. Brother", "C. Uncle", "D. Father"],
+        "answer": "A"
+    },
+    {
+        "question": "If P is the father of Q and Q is the daughter of R, and R is the mother of S, then how is P related to S?",
+        "options": ["A. Father", "B. Brother", "C. Grandfather", "D. Uncle"],
+        "answer": "C"
+    }
+]

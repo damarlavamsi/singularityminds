@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Identify the odd one out among data structures:",
+        "options": ["A. Object", "B. Stack", "C. Queue", "D. Array"],
+        "answer": "A"
+    },
+    {
+        "question": "Which programming paradigm is different from the rest?",
+        "options": ["A. Functional Programming", "B. Object-Oriented Programming", "C. Procedural Programming", "D. Agile Methodology"],
+        "answer": "D"
+    },
+    {
+        "question": "Find the element that does not belong to networking protocols:",
+        "options": ["A. TCP", "B. UDP", "C. HTTP", "D. HTML"],
+        "answer": "D"
+    },
+    {
+        "question": "Choose the hardware component that does not belong to primary memory:",
+        "options": ["A. RAM", "B. Hard Drive", "C. Register", "D. Cache"],
+        "answer": "B"
+    },
+    {
+        "question": "Identify the odd one out in database management systems:",
+        "options": ["A. Python", "B. Oracle", "C. PostgreSQL", "D.MySQL"],
+        "answer": "A"
+    },
+    {
+        "question": "Which algorithm type is different from the rest?",
+        "options": ["A. Merge Sort", "B. Quick Sort", "C. Bubble Sort", "D. Dijkstra’s Algorithm"],
+        "answer": "D"
+    },
+    {
+        "question": "Find the component that is NOT an input device:",
+        "options": ["A. Keyboard", "B. Mouse", "C. Monitor", "D. Scanner"],
+        "answer": "C"
+    },
+    {
+        "question": "Choose the odd one out among operating systems:",
+        "options": ["A. Java", "B. Windows", "C. MacOS", "D. Linux"],
+        "answer": "A"
+    },
+    {
+        "question": "Identify the technology that is NOT used for artificial intelligence:",
+        "options": ["A. Neural Networks", "B. Blockchain", "C. Machine Learning", "D. Deep Learning"],
+        "answer": "B"
+    },
+    {
+        "question": "Which one is NOT a type of cloud computing service?",
+        "options": ["A. SaaS", "B. PaaS", "C. IaaS", "D. SSD"],
+        "answer": "D"
+    },
+    {
+        "question": "Which encryption method does not belong to asymmetric cryptography?",
+        "options": ["A. AES", "B.RSA", "C. ECC", "D. Diffie-Hellman"],
+        "answer": "A"
+    },
+    {
+        "question": "Identify the element that does not fit in software development models:",
+        "options": ["A. Waterfall", "B. Agile", "C.JSON", "D. Spiral"],
+        "answer": "C"
+    },
+    {
+        "question": "Choose the odd one out among cybersecurity threats:",
+        "options": ["A. SQL Injection", "B. DDoS Attack", "C. Phishing", "D. Compiler Error"],
+        "answer": "D"
+    },
+    {
+        "question": "Which component is NOT part of the OSI networking model?",
+        "options": ["A. Physical Layer", "B. Data Link Layer", "C. Transmission Layer", "D. Transport Layer"],
+        "answer": "C"
+    },
+    {
+        "question": "Identify the odd one out in programming languages:",
+        "options": ["A. C++", "B. Java", "C. Python", "D. Excel"],
+        "answer": "D"
+    }
+]

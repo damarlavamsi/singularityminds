@@ -1,0 +1,122 @@
+[
+  {
+    "question": "A and B can do a piece of work in 12 and 16 days respectively. They work together for 4 days, then B leaves. In how many more days will A complete the remaining work?",
+    "options": ["A. 4", "B. 5", "C. 6", "D. 7"],
+    "answer": "C"
+  },
+  {
+    "question": "A can do a job in 20 days, B in 30 days. A and B start together, but B leaves after 5 days. In how many more days will A finish the remaining work?",
+    "options": ["A. 8", "B. 10", "C. 12", "D. 15"],
+    "answer": "A"
+  },
+  {
+    "question": "A, B, and C together can do a piece of work in 10 days. If A alone can do it in 20 days, and B in 30 days, how long will C alone take to complete it?",
+    "options": ["A. 20", "B. 24", "C. 60", "D. 40"],
+    "answer": "C"
+  },
+  {
+    "question": "Two pipes A and B can fill a tank in 24 and 36 minutes respectively. A is opened for 10 minutes, then B is also opened. In how many more minutes will the tank be full?",
+    "options": ["A. 8", "B. 10", "C. 12", "D. 14"],
+    "answer": "C"
+  },
+  {
+    "question": "A and B working together can finish a job in 18 days. B alone takes 24 days. In how many days can A alone do the work?",
+    "options": ["A. 72", "B. 36", "C. 48", "D. 54"],
+    "answer": "B"
+  },
+  {
+    "question": "A contractor hired 120 workers to finish work in 20 days. After 5 days, he fires 30 workers. How many total days will it now take to finish the work?",
+    "options": ["A. 21", "B. 22", "C. 24", "D. 25"],
+    "answer": "C"
+  },
+  {
+    "question": "A and B can complete a task in 15 days. They work together for 10 days, then C joins and the task is finished in 2 more days. How long would C alone take?",
+    "options": ["A. 10 days", "B. 12 days", "C. 15 days", "D. 20 days"],
+    "answer": "A"
+  },
+  {
+    "question": "A can do a job in 12 days. B is 60% as efficient as A. Working together, how many days will they take to complete the work?",
+    "options": ["A. 6", "B. 7.5", "C. 8", "D. 9"],
+    "answer": "C"
+  },
+  {
+    "question": "If 6 men can complete a job in 12 days, how many men are needed to do the same job in 8 days?",
+    "options": ["A. 7", "B. 8", "C. 9", "D. 10"],
+    "answer": "C"
+  },
+  {
+    "question": "Three people can finish a task in 12 days working together. They start together, but one leaves after 4 days, second after 6 days. The last one finishes the remaining in 10 days. How long would each take individually?",
+    "options": ["A. All same, 24 days", "B. All same, 30 days", "C. All same, 36 days", "D. Can't be determined"],
+    "answer": "C"
+  },
+    {
+"question":"  If A can complete a work in 10 days and B can complete the same work in 15 days, how long will it take them to complete the work together?",
+"options":["A.6 days","B.7 days","C.8 days","D.5 days"],
+"answer":"A"
+    },
+    {
+"question":"  A, B, and C together can complete a piece of work in 6 days. A alone can complete the work in 12 days, and B alone in 18 days. How long will C alone take to complete the same work?",
+"options":["A.36 days","B.18 days","C.12 days","D.29 days"],
+"answer":"A"
+    },
+    {
+"question":"  If 6 men can complete a work in 12 days, how long will it take for 8 men to complete the same work?",
+"options":["A.8 days","B.7 days","C.12 days","D.9 days"],
+"answer":"D"
+    },
+ {
+"question":"  A can complete a piece of work in 30 days, while B can complete it in 45 days. If they work together, how long will they take to complete the work?",
+"options":["A.18 days","B.20 days","C.25 days","D.19 days"],
+"answer":"A"
+    },
+{
+"question":"  10 men can complete a work in 15 days. How many men will be required to complete the same work in 10 days?",
+"options":["A.12","B.15","C.25","D.19"],
+"answer":"B"
+    },
+    {
+"question":"  If A can complete a work in 24 days and B can complete the same work in 16 days, in how many days will they complete the work together? ",
+"options":["A.9 days","B.10 days","C.15 days","D.12 days"],
+"answer":"B"
+    },
+    {
+"question":" A and B can complete a work in 20 days and 30 days, respectively. If they work together, in how many days will the work be completed?  ",
+"options":["A.27 days","B.19 days","C.15 days","D.12 days"],
+"answer":"D"
+    },
+    {
+"question":" If a group of workers can complete a task in 50 days, how many days will it take to complete the same task if the workforce is doubled?  ",
+"options":["A.9 days","B.20 days","C.25 days","D.12 days"],
+"answer":"C"
+    },
+    {
+"question":" A and B working together can complete a job in 9 days. If A alone can complete the same work in 15 days, how long will B alone take to finish the job? ",
+"options":["A.29 days","B.30 days","C.27 days","D.33 days"],
+"answer":"C"
+    },
+    {
+"question":"  Sunny Deol can do a piece of work in 10 days and Ravina Tandan can do the same piece of work in 15 days, find how many days it would take for the work to finish if Sunny Deol and Ravina Tandan work together? ",
+"options":["A.9 days","B.6 days","C.7 days","D.3 days"],
+"answer":"B"
+    },
+    {
+"question":" Jatin and Manisha together can do a piece of work in 15 days and Manisha alone can do the same work in 20 days, find the number of days that Jatin will take to do the same work alone? ",
+"options":["A.60 days","B.30 days","C.47 days","D.73 days"],
+"answer":"A"
+    },
+    {
+"question":" Jethiya alone can do half of a work in 5 days, Daya alone can do three-fifth of the same work in 9 days and Sunderlal alone can do two-third of the same work in 8 days. Find the number of days it will take for the work to be completed if all three work together.   ",
+"options":["A.7 days","B.9 days","C.4 days","D.12 days"],
+"answer":"C"
+    },
+    {
+"question":"   Daya takes 4 days to complete 1/3 of job, Abhijeet takes 3 days to complete 1/6th of the same work and ACP Praduman takes 5 days to complete half the job. If all of them work together for 3 days and Daya and ACP Praduman quit. How long will it take for Abhijeet to complete remaining work alone? ",
+"options":["A.5 days","B.7 days","C.15 days","D.3 days"],
+"answer":"A"
+    },
+    {
+"question":" A can complete a piece of work in 8 hours, B can complete in 10 hours and C in 12 hours. If A, B. C start the work together but A leaves after 2 hours. Find the time taken by B and C to complete the remaining work.  ",
+"options":["A.2 + (1/11) ","B.4 + (2/11) ","C.6 + (1/11) ","D.2 + (6/11) "],
+"answer":"A"
+    }
+]

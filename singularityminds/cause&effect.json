@@ -1,0 +1,77 @@
+[
+    {
+        "question": "A company upgrades its servers to cloud-based architecture.",
+        "options": ["A. Data access speeds will increase", "B. System downtime will increase", "C. Security threats will decrease immediately", "D. The company will lose all its data"],
+        "answer": "A"
+    },
+    {
+        "question": "A new programming language is introduced with advanced AI capabilities.",
+        "options": ["A. Developers will adopt it quickly", "B. Existing programming languages will disappear", "C. All software will become AI-powered", "D. IT job opportunities will decline"],
+        "answer": "B"
+    },
+    {
+        "question": "A cybersecurity firm detects a major vulnerability in its firewall system.",
+        "options": ["A. Hackers might exploit the weakness", "B. The company will ignore the issue", "C. Internet speeds will slow down", "D. Hardware components will become obsolete"],
+        "answer": "A"
+    },
+    {
+        "question": "A software company introduces automatic bug fixing in its IDE.",
+        "options": ["A. Developer productivity will improve", "B. Coding errors will increase", "C. Software development costs will rise", "D. Debugging tools will become useless"],
+        "answer": "D"
+    },
+    {
+        "question": "Quantum computing is integrated into mainstream IT systems.",
+        "options": ["A. Computing speeds will drastically improve", "B. Traditional computers will be instantly obsolete", "C. AI will completely replace human programmers", "D. Software companies will shut down"],
+        "answer": "A"
+    },
+    {
+        "question": "A company adopts blockchain technology for transaction security.",
+        "options": ["A. Financial fraud will be reduced", "B. Online transactions will become slower", "C. Cloud storage systems will fail", "D. All companies will abandon traditional databases"],
+        "answer": "B"
+    },
+    {
+        "question": "A leading search engine improves its AI ranking algorithm.",
+        "options": ["A. Search results will become more relevant", "B. Websites will stop appearing in searches", "C. Internet traffic will decrease", "D. Web users will completely avoid searches"],
+        "answer": "A"
+    },
+    {
+        "question": "A tech company develops a new programming framework for mobile apps.",
+        "options": ["A. App development will become easier", "B. Web development will completely stop", "C. All mobile apps will require reprogramming", "D. Software engineers will lose their jobs"],
+        "answer": "C"
+    },
+    {
+        "question": "An operating system introduces a new AI-powered security feature.",
+        "options": ["A. Cybersecurity threats might reduce", "B. Hackers will easily bypass security", "C. Users will stop updating their systems", "D. Old software will immediately stop working"],
+        "answer": "B"
+    },
+    {
+        "question": "A company switches its customer service to AI-powered chatbots.",
+        "options": ["A. Response times will become faster", "B. Customer interactions will completely stop", "C. Human support agents will be removed immediately", "D. AI will start making product decisions"],
+        "answer": "A"
+    },
+    {
+        "question": "An IT firm launches a new cloud computing service with unlimited storage.",
+        "options": ["A. Data storage issues might reduce", "B. Internet speeds will slow down", "C. Businesses will stop using local storage devices", "D. Server security will completely disappear"],
+        "answer": "C"
+    },
+    {
+        "question": "A company introduces high-speed fiber-optic internet services.",
+        "options": ["A. Internet speeds will significantly improve", "B. Wireless communication will stop functioning", "C. Mobile networks will completely shut down", "D. Computers will stop requiring processors"],
+        "answer": "A"
+    },
+    {
+        "question": "An AI-based code optimization tool is launched for developers.",
+        "options": ["A. Code efficiency will improve", "B. Programmers will stop writing code manually", "C. AI will replace all software developers", "D. Software debugging will become impossible"],
+        "answer": "B"
+    },
+    {
+        "question": "A cybersecurity company introduces a new encryption protocol.",
+        "options": ["A. Data privacy will be enhanced", "B. Hackers will immediately break encryption", "C. All existing passwords will stop working", "D. Online banking will be discontinued"],
+        "answer": "A"
+    },
+    {
+        "question": "A data center adopts quantum encryption technology.",
+        "options": ["A. Cybersecurity risks will decrease", "B. The internet will become slower", "C. Cloud storage systems will fail", "D. All computers will need new hardware"],
+        "answer": "D"
+    }
+]
